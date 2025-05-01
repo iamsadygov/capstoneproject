@@ -1,3 +1,10 @@
+ //██████╗  ██████╗ ██╗  ██╗ ██████╗██╗  ██╗███████╗███╗   ██╗
+//██╔════╝ ██╔═══██╗██║ ██╔╝██╔════╝██║  ██║██╔════╝████╗  ██║
+//██║  ███╗██║   ██║█████╔╝ ██║     ███████║█████╗  ██╔██╗ ██║
+//██║   ██║██║   ██║██╔═██╗ ██║     ██╔══██║██╔══╝  ██║╚██╗██║
+//╚██████╔╝╚██████╔╝██║  ██╗╚██████╗██║  ██║███████╗██║ ╚████║
+ //╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+
 import React, { useState } from "react";
 import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
 import Layout from "./components/Layout/Layout";
@@ -21,7 +28,6 @@ function App() {
   );
 }
 
-// Wrapper to pass rankings from route state to Results
 const ResultsWrapper = () => {
   const location = useLocation();
   const { rankings, results } = location.state || { rankings: {}, results: [] };

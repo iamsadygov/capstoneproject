@@ -11,14 +11,13 @@ const Layout = ({ children, onBrandSelect }) => {
   const dropdownRef = useRef(null);
   const location = useLocation();
 
-  // 📌 Fetch Brands from JSON (Ensure JSON is in public folder)
   useEffect(() => {
     fetch("/laptops.json")
       .then((response) => response.json())
       .then((data) => {
         const uniqueBrands = ["All", ...new Set(data
           .map((laptop) => laptop.Brand?.trim())
-          .filter(brand => brand && brand.length > 1) // Remove invalid brands
+          .filter(brand => brand && brand.length > 1) 
         )];
         setBrands(uniqueBrands.sort());
         setLoading(false);
@@ -29,7 +28,6 @@ const Layout = ({ children, onBrandSelect }) => {
       });
   }, []);
 
-  // 📌 Close dropdown when clicking outside
   useEffect(() => {
     const handleClickOutside = (event) => {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
@@ -40,7 +38,6 @@ const Layout = ({ children, onBrandSelect }) => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  // 📌 Close dropdown when changing pages
   useEffect(() => {
     setDropdownOpen(false);
   }, [location.pathname]);
@@ -72,7 +69,7 @@ const Layout = ({ children, onBrandSelect }) => {
                       key={brand}
                       className="dropdown-item"
                       onClick={() => {
-                        onBrandSelect(brand); // Updates selected brand
+                        onBrandSelect(brand);
                         setDropdownOpen(false);
                       }}
                     >

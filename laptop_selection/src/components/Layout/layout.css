@@ -1,8 +1,8 @@
-/* 🌍 NAVBAR */
+
 .navbar {
   position: sticky;
   top: 0;
-  z-index: 999; /* Keeps it above everything */
+  z-index: 999; 
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -11,7 +11,7 @@
   flex-wrap: nowrap;
   
 }
-/* 🖼️ LOGO */
+
 .nav-logo-container {
   display: flex;
   align-items: center;
@@ -24,7 +24,6 @@
   margin-right: 10px;
 }
 
-/* 📌 NAV LINKS */
 .nav-links {
   display: flex;
   align-items: center;
@@ -33,7 +32,6 @@
   justify-content: center;
 }
 
-/* 🔗 INDIVIDUAL LINKS */
 .nav-links a {
   color: white;
   text-decoration: none;
@@ -44,14 +42,10 @@
   transition: color 0.2s ease-in-out;
 }
 
-/* 🚀 HOVER EFFECT */
 .nav-links a:hover {
   color: #00aaff;
 }
 
-
-
-/* 📌 DROPDOWN MENU */
 .dropdown {
   position: relative;
   display: inline-block;
@@ -80,12 +74,11 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   z-index: 1000;
-  width: 180px; /* Adjust width as needed */
-  max-height: 250px; /* Limits the height */
-  overflow-y: auto; /* Enables vertical scrolling */
+  width: 180px; 
+  max-height: 250px; 
+  overflow-y: auto; 
 }
 
-/* 📜 SCROLLBAR STYLING */
 .dropdown-menu::-webkit-scrollbar {
   width: 6px;
 }
@@ -104,19 +97,18 @@
   background: #0088cc;
 }
 
-/* 📌 DROPDOWN ITEMS */
 .dropdown-item {
   padding: 10px 15px;
   color: white;
   cursor: pointer;
   transition: background 0.2s ease-in-out;
-  text-transform: capitalize; /* Makes first letter uppercase */
+  text-transform: capitalize; 
 }
 
 .dropdown-item:hover {
   background: #1a2a38;
 }
-/* 📱 RESPONSIVENESS */
+
 @media (max-width: 900px) {
   .navbar {
     flex-direction: column;
@@ -154,7 +146,6 @@
   }
 }
 
-/* 📱 VERY SMALL SCREENS */
 @media (max-width: 600px) {
   .navbar {
     padding: 10px;
