@@ -1,0 +1,17 @@
+mhz_1066
+mhz_1740
+mhz_2400
+mhz_2666
+mhz_2800
+mhz_3200
+mhz_3733
+mhz_4000
+mhz_4266
+mhz_4800
+mhz_5200
+mhz_5500
+mhz_5600
+mhz_5800
+mhz_6400
+mhz_6600
+mhz_7467

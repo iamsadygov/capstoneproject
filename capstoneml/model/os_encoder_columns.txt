@@ -1,0 +1,8 @@
+os_Android
+os_FreeDos
+os_Linux
+os_Ubuntu
+os_Windows 10 Home
+os_Windows 10 Pro
+os_Windows 11 Home
+os_Windows 11 Pro
