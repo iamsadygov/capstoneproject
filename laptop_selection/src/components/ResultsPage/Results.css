@@ -57,3 +57,59 @@
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
+
+/* ✅ Added this new part for the 2-row, 5-column layout */
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+}
+
+.laptop-card {
+  background: #e9f4fb ;
+  border: 3px solid #2c3e50;
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+.laptop-specs {
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+.laptop-specs li {
+  margin-bottom: 6px;
+  list-style-type: disc;
+}
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+}
+
+/* Adjust to 3 columns for screens up to 1200px */
+@media (max-width: 1200px) {
+  .results-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Adjust to 2 columns for screens up to 900px */
+@media (max-width: 900px) {
+  .results-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Adjust to 1 column for screens up to 600px */
+@media (max-width: 600px) {
+  .results-grid {
+    grid-template-columns: 1fr;
+  }
+}

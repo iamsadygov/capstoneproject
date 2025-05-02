@@ -12,7 +12,7 @@ import pandas as pd
 import json
 import os
 
-DATA_PATH = "data/laptop_dataset.csv" 
+DATA_PATH = "data/laptop_dataset.csv"
 SEEN_FILE = "shown_laptops.json"
 USE_PERSISTENT_STORAGE = False
 

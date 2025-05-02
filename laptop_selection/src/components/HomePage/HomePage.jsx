@@ -25,7 +25,7 @@ const HomePage = () => {
             <span className="step-number">1</span>
             <h3>Rank Your Needs</h3>
             <p>
-              Select and prioritize the features that matter most to you (e.g. battery life, performance, budget).
+              Prioritize the features that matter most to you. The more important a feature is to you, the higher you should rate it.
             </p>
           </div>
           <div className="step">
