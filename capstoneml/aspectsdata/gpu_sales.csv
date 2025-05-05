@@ -1,62 +1,48 @@
-GPU,Sales_Count
-Shared,1023
-Onboard,4208
-Intel UHD Graphics,5761
-Intel Iris Xe Graphics,6031
-Intel Iris Graphics,5647
-Intel Iris Pro Graphics,3392
-Intel HD Graphics,6456
-Intel HD Graphics 600,4812
-Intel UHD Graphics 600,4616
-Intel Arc Graphics,898
-Intel Graphics,1236
-AMD Radeon Graphics,3415
-AMD Radeon R5,2197
-AMD Radeon RX6550M,1602
-AMD RX550 2 GB,2407
-AMD Radeon Vega 7,1888
-AMD Radeon 610M,1034
-AMD Radeon 610,2330
-AMD Radeon 780M,1618
-Nvidia GeForce RTX 4060,2346
-RTX 4070,2063
-RTX 4050,2720
-RTX 3050,3556
-RTX 2050,1912
-RTX 3060,5241
-RTX 3070Ti,1858
-RTX 3080Ti,2409
-RTX 3080,1544
-RTX 3500,2206
-RTX 5000,2902
-RTX 5080,2716
-RTX 5090,917
-RTX 4080,840
-RTX 4090,898
-MX550,2206
-MX350,2255
-GTX1650,3216
-Quadro RTX 5000,189
-RTX 5000 ADA,186
-AMD Radeon RX 7600S,6800
-Intel UHD Graphics 610,3200
-Nvidia GeForce GTX1650,3216
-Nvidia GeForce MX350,2255
-Nvidia GeForce MX550,2206
-Nvidia GeForce RTX 2050,1912
-Nvidia GeForce RTX 3050,3553
-Nvidia GeForce RTX 3050 Ti,832
-Nvidia GeForce RTX 3060,5241
-Nvidia GeForce RTX 3070 Ti,1858
-Nvidia GeForce RTX 3080,1544
-Nvidia GeForce RTX 3080 Ti,2409
-Nvidia GeForce RTX 3500,2206
-Nvidia GeForce RTX 4050,2720
-Nvidia GeForce RTX 4070,2063
-Nvidia GeForce RTX 4080,840
-Nvidia GeForce RTX 4090,898
-Nvidia GeForce RTX 5000,2902
-Nvidia GeForce RTX 5070 Ti,854
-Nvidia GeForce RTX 5080,2716
-Nvidia GeForce RTX 5090,917
-Nvidia RTX 5000 ADA,186
+Value,Sales
+AMD RX550 2 GB,1847
+AMD Radeon 610,2649
+AMD Radeon 610M,3197
+AMD Radeon 780M,3632
+AMD Radeon Graphics,4371
+AMD Radeon R5,1472
+AMD Radeon RX 7600S,2884
+AMD Radeon RX6550M,2373
+AMD Radeon Vega 7,3726
+Intel Arc Graphics,2061
+Intel Graphics,3168
+Intel HD Graphics,4924
+Intel HD Graphics 600,3262
+Intel Iris Graphics,5296
+Intel Iris Pro Graphics,3161
+Intel Iris Xe Graphics,9274
+Intel UHD Graphics,8689
+Intel UHD Graphics 600,2673
+Intel UHD Graphics 610,3682
+Nvidia GeForce GTX1650,5527
+Nvidia GeForce MX350,3849
+Nvidia GeForce MX550,3973
+Nvidia GeForce RTX 2050,4396
+Nvidia GeForce RTX 3050,6139
+Nvidia GeForce RTX 3050 Ti,5786
+Nvidia GeForce RTX 3060,5641
+Nvidia GeForce RTX 3070Ti,4448
+Nvidia GeForce RTX 3080,4789
+Nvidia GeForce RTX 3080Ti,3174
+Nvidia GeForce RTX 3500,2689
+Nvidia GeForce RTX 4050,4947
+Nvidia GeForce RTX 4060,5043
+Nvidia GeForce RTX 4070,4672
+Nvidia GeForce RTX 4080,4248
+Nvidia GeForce RTX 4090,3957
+Nvidia GeForce RTX 5000,3661
+Nvidia GeForce RTX 5070Ti,2842
+Nvidia GeForce RTX 5080,2751
+Nvidia GeForce RTX 5090,2583
+Nvidia RTX 5000 ADA,2072
+Onboard,4176
+Quadro RTX 5000,1741
+Shared,8271
+Apple M1 GPU,5449
+Apple M2 GPU,5982
+NVIDIA RTX A1000,1578
+NVIDIA RTX A2000,2279

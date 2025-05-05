@@ -6,8 +6,8 @@ color_sales = pd.read_csv('data/color_sales.csv')
 
 color_sales.columns = [col.strip().lower() for col in color_sales.columns]
 
-X = color_sales[['color']]
-y = color_sales['salespreference']
+X = color_sales[['Value']]
+y = color_sales['Sales']
 
 X_encoded = pd.get_dummies(X)
 

@@ -4,8 +4,8 @@ import joblib
 
 weight_sales = pd.read_csv('data/weight_sales.csv')
 
-X = weight_sales[['Weight']]
-y = weight_sales['SalesPreference']
+X = weight_sales[['Value']]
+y = weight_sales['Sales']
 
 X_encoded = pd.get_dummies(X.astype(str))
 

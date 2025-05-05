@@ -4,8 +4,8 @@ import joblib
 
 ram_sales = pd.read_csv('data/ram_sales.csv')
 
-X = ram_sales[['RAM']]
-y = ram_sales['SalesPreference']
+X = ram_sales[['Value']]
+y = ram_sales['Sales']
 
 X_encoded = pd.get_dummies(X.astype(str))
 

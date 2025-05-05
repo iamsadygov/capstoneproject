@@ -4,8 +4,8 @@ import joblib
 
 brand_sales = pd.read_csv('data/brand_sales.csv')
 
-X = brand_sales[['Brand']]
-y = brand_sales['SalesPreference']
+X = brand_sales[['Value']]
+y = brand_sales['Sales']
 
 X_encoded = pd.get_dummies(X)
 
@@ -17,3 +17,4 @@ joblib.dump(model, 'model/brand_rank.pkl')
 with open('model/brand_encoder_columns.txt', 'w') as f:
     for col in X_encoded.columns:
         f.write(f"{col}\n")
+        

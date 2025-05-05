@@ -1,19 +1,28 @@
-Color,SalesPreference
-Black,6927
-Grey,6395
-Blue,1730
-Metallic Grey,3345
-Silver,6641
-Dark Grey,3001
-"Grey, Black",3109
-"Black, Grey",3765
-"Dark Gray, Black",4945
-White,2061
-Titanium Grey,4419
-Dark Blue,1310
-Metallic Black,3493
-"Gold, Metallic Black",4357
-Navy Blue,1751
-"Grey, Silver",3434
-"Dark Grey, Black",3616
-"Gold, Black",4548
+Value,Sales
+Black,9652
+"Black, Grey",6147
+Blue,3182
+Dark Blue,1637
+"Dark Gray, Black",2936
+Dark Grey,4181
+"Dark Grey, Black",3384
+"Gold, Black",1982
+"Gold, Metallic Black",1768
+Grey,5079
+"Grey, Black",3642
+"Grey, Silver",3175
+Metallic Black,2469
+Metallic Grey,2267
+Navy Blue,1562
+Silver,6293
+Titanium Grey,2183
+White,2381
+Beige,1072
+Rose Gold,1483
+Green,913
+Red,1221
+Orange,818
+Purple,739
+Champagne,976
+Matte Black,1852
+Graphite,1674

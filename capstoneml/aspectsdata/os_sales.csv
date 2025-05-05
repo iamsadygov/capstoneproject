@@ -1,9 +1,25 @@
-os,SalesPreference
-FreeDos,3438
-Windows 11 Home,9818
-Windows 11 Pro,6593
-Windows 10 Pro,4699
-Windows 10 Home,9978
-Linux,1798
-Ubuntu,1641
-Android,270
+Value,Sales
+Android,1129
+FreeDos,2391
+Linux,1438
+Ubuntu,637
+Windows 10 Home,3936
+Windows 10 Pro,4198
+Windows 11 Home,7192
+Windows 11 Pro,5487
+Linux Mint,462
+macOS,5862
+Fedora,318
+Debian,444
+Zorin OS,273
+Manjaro,297
+Arch Linux,336
+Chrome OS,3981
+Kali Linux,641
+Pop!_OS,353
+Elementary OS,296
+Windows 8.1,244
+EndeavourOS,137
+Deepin,208
+ReactOS,96
+CentOS,178

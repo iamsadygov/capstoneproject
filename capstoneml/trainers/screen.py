@@ -4,8 +4,8 @@ import joblib
 
 screen_sales = pd.read_csv('data/screen_sales.csv')
 
-X = screen_sales[['ScreenSize']]
-y = screen_sales['SalesPreference']
+X = screen_sales[['Value']]
+y = screen_sales['Sales']
 
 X_encoded = pd.get_dummies(X.astype(str))
 
