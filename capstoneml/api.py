@@ -13,6 +13,7 @@ import json
 import os
 
 DATA_PATH = "data/laptop_dataset.csv"
+EDAS_PATH = "data/edas_data.csv"
 SEEN_FILE = "shown_laptops.json"
 USE_PERSISTENT_STORAGE = False
 
@@ -20,6 +21,7 @@ app = Flask(__name__)
 CORS(app)
 
 df = pd.read_csv(DATA_PATH)
+edas_df = pd.read_csv(EDAS_PATH)
 
 def load_seen():
     if USE_PERSISTENT_STORAGE and os.path.exists(SEEN_FILE):
@@ -79,6 +81,7 @@ def recommend():
     if not weights:
         return jsonify({"error": "Missing aspect weights"}), 400
 
+    # --- ML Logic ---
     filtered_df = filter_laptops(weights, use_expansion=False)
     if filtered_df.empty:
         filtered_df = filter_laptops(weights, use_expansion=True)
@@ -88,14 +91,47 @@ def recommend():
         filtered_df = scored_df.sort_values(by="Score", ascending=False)
 
     filtered_df = filtered_df[~filtered_df["Laptop Name"].isin(shown_laptops)]
+    ml_result_df = filtered_df.head(5)
 
-    result_df = filtered_df.head(10)
-    new_names = result_df["Laptop Name"].tolist()
-    shown_laptops.update(new_names)
+    # --- EDAS Logic ---
+    edas_components = []
+    mapping = {
+        "Weight": "Weight",
+        "RAM": "Ram",
+        "Screen_Size": "Screen",
+        "Memory_Speed": "Memory",
+        "Price": "Price",
+        "Storage": "Storage",
+        "Graphics_Card": "Gpu",
+        "CPU": "Cpu"
+    }
+
+    for key, edas_name in mapping.items():
+        value = weights.get(key, 0)
+        if value != 0:
+            edas_components.append(f"{edas_name}{value}")
+
+    preference_key = " ".join(edas_components)
+
+    edas_result_df = pd.DataFrame()
+    if preference_key in edas_df.columns:
+        edas_subset = edas_df[["Laptop Name", preference_key]].copy()
+        edas_subset = edas_subset.rename(columns={preference_key: "EDAS Score"})
+        edas_subset = edas_subset.sort_values(by="EDAS Score", ascending=True).head(5)
+
+        edas_result_df = df[df["Laptop Name"].isin(edas_subset["Laptop Name"])]
+        edas_result_df = edas_result_df.merge(edas_subset, on="Laptop Name", how="left")
+    else:
+        print(f"[EDAS] No matching column for: {preference_key} — skipping EDAS results.")
+
+    # Track shown laptops
+    shown_laptops.update(ml_result_df["Laptop Name"].tolist())
     save_seen(shown_laptops)
 
-    result = result_df.to_dict(orient="records")
-    return jsonify({"results": result})
+    return jsonify({
+        "ml": ml_result_df.to_dict(orient="records"),
+        "edas": edas_result_df.to_dict(orient="records")
+    })
 
 @app.route("/reset_seen", methods=["POST"])
 def reset_seen():

@@ -4,7 +4,7 @@ import "./Results.css";
 
 const ResultsPage = () => {
   const location = useLocation();
-  const { rankings, results } = location.state || { rankings: {}, results: [] };
+  const { rankings, results = [], edas = [] } = location.state || {};
 
   return (
     <div className="results-container">
@@ -19,33 +19,66 @@ const ResultsPage = () => {
       </div>
 
       <div className="recommendation-panel">
-  <h2>Best Recommendations For You:</h2>
-  {results.length === 0 ? (
-    <p>(Laptop cards or results will be shown here soon...)</p>
-  ) : (
-    <div className="results-grid">
-      {results.map((laptop, index) => (
-       <div key={index} className="laptop-card">
-       <h3>{laptop["Laptop Name"]}</h3>
-       <ul className="laptop-specs">
-         <li>CPU: {laptop["CPU"]}</li>
-         <li>GPU: {laptop["Graphic Card"]}</li>
-         <li>RAM: {laptop["RAM"]} GB</li>
-         <li>Storage: {laptop["Storage"]} GB</li>
-         <li>Screen: {laptop["Screen Size"]} in</li>
-         <li>OS: {laptop["Operating System"]}</li>
-         <li>Brand: {laptop["Brand"]}</li>
-         <li>Color: {laptop["Color"]}</li>
-         <li>Weight: {laptop["Weight"]} kg</li>
-         <li>Memory Speed: {laptop["Memory Speed"]} MHz</li>
-         <li>Price: {laptop["Price"]} ₺</li>
-       </ul>
-       <strong>Correctness Score: {laptop["Correctness Score (%)"]}%</strong>
-     </div>
-      ))}
-    </div>
-  )}
-</div>
+        {(results.length > 0 || edas.length > 0) ? (
+          <>
+            {results.length > 0 && (
+              <>
+                <h2>Machine Learning Recommendations:</h2>
+                <div className="results-grid">
+                  {results.map((laptop, index) => (
+                    <div key={index} className="laptop-card">
+                      <h3>{laptop["Laptop Name"]}</h3>
+                      <ul className="laptop-specs">
+                        <li>CPU: {laptop["CPU"]}</li>
+                        <li>GPU: {laptop["Graphic Card"]}</li>
+                        <li>RAM: {laptop["RAM"]} GB</li>
+                        <li>Storage: {laptop["Storage"]} GB</li>
+                        <li>Screen: {laptop["Screen Size"]} in</li>
+                        <li>OS: {laptop["Operating System"]}</li>
+                        <li>Brand: {laptop["Brand"]}</li>
+                        <li>Color: {laptop["Color"]}</li>
+                        <li>Weight: {laptop["Weight"]} kg</li>
+                        <li>Memory Speed: {laptop["Memory Speed"]} MHz</li>
+                        <li>Price: {laptop["Price"]} ₺</li>
+                      </ul>
+                      <strong>Correctness Score: {laptop["Correctness Score (%)"]}%</strong>
+                    </div>
+                  ))}
+                </div>
+              </>
+            )}
+
+            {edas.length > 0 && (
+              <>
+                <h2>EDAS Method Recommendations:</h2>
+                <div className="results-grid">
+                  {edas.map((laptop, index) => (
+                    <div key={index} className="laptop-card">
+                      <h3>{laptop["Laptop Name"]}</h3>
+                      <ul className="laptop-specs">
+                        <li>CPU: {laptop["CPU"]}</li>
+                        <li>GPU: {laptop["Graphic Card"]}</li>
+                        <li>RAM: {laptop["RAM"]} GB</li>
+                        <li>Storage: {laptop["Storage"]} GB</li>
+                        <li>Screen: {laptop["Screen Size"]} in</li>
+                        <li>OS: {laptop["Operating System"]}</li>
+                        <li>Brand: {laptop["Brand"]}</li>
+                        <li>Color: {laptop["Color"]}</li>
+                        <li>Weight: {laptop["Weight"]} kg</li>
+                        <li>Memory Speed: {laptop["Memory Speed"]} MHz</li>
+                        <li>Price: {laptop["Price"]} ₺</li>
+                      </ul>
+                      <strong>EDAS Score: {laptop["EDAS Score"]}</strong>
+                    </div>
+                  ))}
+                </div>
+              </>
+            )}
+          </>
+        ) : (
+          <p>No recommendations found for the given preferences.</p>
+        )}
+      </div>
     </div>
   );
 };

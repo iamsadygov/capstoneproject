@@ -144,7 +144,8 @@ const RankingPage = () => {
                   });
               
                   const data = await response.json();
-                  navigate("/results", { state: { rankings, results: data.results } });
+                  navigate("/results", { state: { rankings, results: data.ml, edas: data.edas } });
+
                 } catch (error) {
                   console.error("API error:", error);
                   alert("Failed to get recommendations. Is the backend running?");
