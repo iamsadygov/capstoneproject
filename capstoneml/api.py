@@ -1,11 +1,3 @@
-##         ███████╗ █████╗ ██████╗ ██╗   ██╗ ██████╗  ██████╗ ██╗   ██╗
-##         ██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝ ██╔═══██╗██║   ██║
-##         ███████╗███████║██║  ██║ ╚████╔╝ ██║  ███╗██║   ██║██║   ██║
-##         ╚════██║██╔══██║██║  ██║  ╚██╔╝  ██║   ██║██║   ██║╚██╗ ██╔╝
-##         ███████║██║  ██║██████╔╝   ██║   ╚██████╔╝╚██████╔╝ ╚████╔╝
-##         ╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝    ╚═════╝  ╚═════╝   ╚═══╝
-
-
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pandas as pd
@@ -13,7 +5,7 @@ import json
 import os
 
 DATA_PATH = "data/laptop_dataset.csv"
-EDAS_PATH = "data/edas_data.csv"
+EDAS_PATH = "data/RK.csv"
 SEEN_FILE = "shown_laptops.json"
 USE_PERSISTENT_STORAGE = False
 
@@ -96,14 +88,14 @@ def recommend():
     # --- EDAS Logic ---
     edas_components = []
     mapping = {
-        "Weight": "Weight",
-        "RAM": "Ram",
-        "Screen_Size": "Screen",
-        "Memory_Speed": "Memory",
-        "Price": "Price",
-        "Storage": "Storage",
-        "Graphics_Card": "Gpu",
-        "CPU": "Cpu"
+        "Weight": "weight",
+        "RAM": "ram",
+        "Screen_Size": "screen",
+        "Memory_Speed": "memory",
+        "Price": "price",
+        "Storage": "storage",
+        "Graphics_Card": "gpu",
+        "CPU": "cpu"
     }
 
     for key, edas_name in mapping.items():
@@ -111,16 +103,17 @@ def recommend():
         if value != 0:
             edas_components.append(f"{edas_name}{value}")
 
-    preference_key = " ".join(edas_components)
+    preference_key = " ".join(edas_components).lower()
 
     edas_result_df = pd.DataFrame()
-    if preference_key in edas_df.columns:
-        edas_subset = edas_df[["Laptop Name", preference_key]].copy()
+    if "laptop name" in edas_df.columns and preference_key in edas_df.columns:
+        edas_subset = edas_df[["laptop name", preference_key]].copy()
         edas_subset = edas_subset.rename(columns={preference_key: "EDAS Score"})
         edas_subset = edas_subset.sort_values(by="EDAS Score", ascending=True).head(5)
 
-        edas_result_df = df[df["Laptop Name"].isin(edas_subset["Laptop Name"])]
-        edas_result_df = edas_result_df.merge(edas_subset, on="Laptop Name", how="left")
+        edas_result_df = df[df["Laptop Name"].isin(edas_subset["laptop name"])]
+        edas_result_df = edas_result_df.merge(edas_subset, left_on="Laptop Name", right_on="laptop name", how="left")
+        edas_result_df.drop(columns=["laptop name"], inplace=True)
     else:
         print(f"[EDAS] No matching column for: {preference_key} — skipping EDAS results.")
 
