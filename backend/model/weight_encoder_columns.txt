@@ -1,0 +1,8 @@
+Value_1.0
+Value_1.5
+Value_2.0
+Value_2.5
+Value_3.0
+Value_3.5
+Value_4.0
+Value_5.0

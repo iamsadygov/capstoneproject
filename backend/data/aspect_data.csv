@@ -1,0 +1,980 @@
+Laptop Name,Weight,Graphic Card,Operating System,RAM,CPU,Screen Size,Memory Speed,Color,Brand,Price,Storage
+Hp 250 G10,3,Shared,FreeDos,16,Intel Core i5,15.6,5200,Black,hp,15999,512
+Casper Excalibur G870,5,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,15.6,3200,Grey,casper,39999,1024
+Msi Katana A15,3,Nvidia GeForce RTX 4070,FreeDos,32,AMD Ryzen 9,15.6,5600,Black,msi,74599,1024
+Asus Vivobook 15,1.5,Shared,FreeDos,8,Intel Core i5,15.6,3200,Blue,asus,23099,256
+Lenovo Notebook,1.5,AMD Radeon 610M,FreeDos,16,AMD Ryzen 5,15.6,5500,Black,lenovo,15295,512
+Lenovo Ideapad 1,1.5,Onboard,FreeDos,16,AMD Ryzen 7,15.6,3200,Grey,lenovo,15999,512
+Casper Nirvana X600,1,Shared,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,19499,500
+Lenovo Loq 15,3,Intel Arc Graphics,FreeDos,16,Intel Core i5,15.6,4800,Grey,lenovo,23999,512
+Acer Aspire Lite Al16,1.5,Shared,FreeDos,8,Intel Core i5,16,4800,Metallic Grey,acer,14499,512
+Hp Victus 15,3,AMD Radeon RX6550M,FreeDos,16,AMD Ryzen 5,15.6,3200,Silver,hp,24999,512
+Lenovo Loq,3,Nvidia GeForce RTX 4050,FreeDos,24,Intel Core i5,15.6,4800,Grey,lenovo,36999,512
+Asus Rog Strix G16,4,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,16,4800,Grey,asus,69266,512
+Monster Abra A5,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,3200,Black,monster,40499,1024
+Acer Nitro 5,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,4800,Black,acer,34599,1024
+Asus Vivobook 15,1.5,Intel UHD Graphics,Windows 11 Home,8,Intel Core i5,15.6,3200,Blue,asus,15999,512
+Casper Excalibur G770,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i5,15.6,3200,Black,casper,32599,1024
+Hp 255 G9,1.5,AMD Radeon R5,FreeDos,8,AMD Ryzen 5,15.6,3200,Silver,hp,12999,512
+Casper Excalibur G870,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,3200,Grey,casper,38199,1024
+Lenovo Ideapad Slim 3,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,4800,Grey,lenovo,18999,512
+Casper Nirvana C550,1.5,Shared,FreeDos,16,Intel Core i5,15.6,3200,Dark Grey,casper,15799,512
+Msi Thin 15,1.5,Nvidia GeForce RTX 2050,FreeDos,8,Intel Core i5,15.6,3200,Dark Grey,msi,24799,512
+Hp Victus Gaming 15,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,3200,Black,hp,39999,512
+Casper Nirvana X600,1,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 5,15.6,3200,Grey,casper,16999,500
+Acer Aspire 3,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Silver,acer,24000,512
+Casper Nirvana X600,1.5,Shared,FreeDos,32,Intel Core i7,15.6,3200,Grey,casper,23299,1024
+Hp Victus Gaming 15 Fa1033Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Blue,hp,34999,512
+Lenovo Ideapad Slim 3 15Iah8,3,Onboard,FreeDos,8,Intel Core i5,15.6,4800,Grey,lenovo,15311,512
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,8,Intel Core i5,15.6,3200,Grey,asus,30500,512
+Casper Nirvana C550 1235,1.5,Shared,Windows 11 Home,8,Intel Core i5,15.6,3200,Dark Grey,casper,16999,512
+Msi Cyborg 15 A13Ve,1.5,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,5200,Black,msi,35099,512
+Msi Modern 15 B12Mo,1.5,Intel Iris Xe Graphics,FreeDos,8,Intel Core i5,15.6,3200,Black,msi,15399,512
+Acer Aspire Lite Al14 31P,1,Shared,Windows 11 Home,8,Intel Core i3,14,4800,Silver,acer,11519,512
+Msi Cyborg 15 A13Vf,1.5,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,5200,Black,msi,42999,512
+Msi Thin 15 B12Uc,1.5,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Dark Grey,msi,29399,512
+Dell Gaming G15 5530,3,Nvidia GeForce RTX 4060,Ubuntu,16,Intel Core i7,15.6,4800,Black,dell,50999,1024
+Msi Katana 15 B13Vgk,1.5,Nvidia GeForce RTX 4070,FreeDos,16,Intel Core i7,15.6,5200,Black,msi,58999,1024
+Hp 15 Fc0059Nt,1.5,Shared,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,hp,17499,512
+Lenovo Loq,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,4800,Grey,lenovo,38999,512
+Hp Victus 16 S1019Nt,3,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 7,16.1,5600,Blue,hp,51199,512
+Msi Katana 17 B12Vfk,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,17.3,4800,Black,msi,47670,512
+Msi Thin 15 B12Uc,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i7,15.6,3200,Grey,msi,33242,512
+Acer Nitro V15 Anv15,3,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 7,15.6,5600,Black,acer,39499,512
+Lenovo Ideapad Slim 3 16Irh10,1,Intel UHD Graphics,FreeDos,16,Intel Core i5,16,4800,Grey,lenovo,19799,512
+Lenovo Ideapad Slim 3,1,Intel UHD Graphics,Windows 11 Home,4,INTEL N100,15.6,4800,Grey,lenovo,8999,128
+Lenovo Loq,3,Nvidia GeForce RTX 4050,FreeDos,24,AMD Ryzen 7,15.6,4800,Grey,lenovo,37999,512
+Lenovo Loq 15Arp9,3,Nvidia GeForce RTX 3050,FreeDos,16,AMD Ryzen 5,15.6,4800,"Grey, Black",lenovo,28999,512
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,17.3,3200,Black,monster,57899,1024
+Msi Katana 17 B13Vfk,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,17.3,5200,Black,msi,56999,1024
+Hp Victus 16 S1011Nt,1.5,Nvidia GeForce RTX 4060,FreeDos,32,AMD Ryzen 7,16.1,5600,Blue,hp,49599,1024
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 4060,FreeDos,8,Intel Core i7,15.6,4800,Black,acer,40963,1024
+Asus Tuf Gaming A15,3.5,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 7,15.6,4800,Grey,asus,49616,512
+Hp Victus 15 Fa1085Nt,3.5,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,3200,Silver,hp,42570,1024
+Hp Victus 16 R1041Nt,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,16.1,5600,Blue,hp,51499,1024
+Lenovo Loq 15Iax9 ,1,Nvidia GeForce RTX 3050,FreeDos,12,Intel Core i5,15.6,4800,Black,lenovo,30299,1024
+Lenovo Loq,1,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,4800,Grey,lenovo,39999,512
+Hp Omen 17 Db0015Nt,3,Nvidia GeForce RTX 4070,FreeDos,32,AMD Ryzen 7,17.3,5600,Black,hp,65399,1024
+Msi Katana 17 B13Vfk,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,17.3,5200,Black,msi,59999,1024
+Msi Crosshair 17 Hx,3,Nvidia GeForce RTX 4070,Windows 11 Home,32,Intel Core i7,17,5600,Dark Grey,msi,109999,1024
+Dell Vostro 3530,1.5,Intel Iris Xe Graphics,Linux,16,Intel Core i5,15.6,2666,Black,dell,18756,512
+Asus Tuf Gaming A15 Fa507Nvr,3,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 7,15.6,4800,"Black, Grey",asus,45999,512
+Lenovo Loq 15Irx9,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,15.6,4800,Grey,lenovo,57999,1024
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,15.6,3200,Grey,casper,41999,1024
+Hp Victus Gaming 16 S0005Nt,3,Nvidia GeForce RTX 4070,FreeDos,16,AMD Ryzen 7,16.1,5600,Black,hp,54999,1024
+Dell Inspiron 3530 I5,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,15.6,2666,Black,dell,17783,512
+Msi Sword 16 Hx,3,Nvidia GeForce RTX 4070,FreeDos,32,Intel Core i7,16,5600,"Dark Gray, Black",msi,83243,1024
+Lenovo Loq,3,Nvidia GeForce RTX 3050,FreeDos,16,AMD Ryzen 5,15.6,4800,Grey,lenovo,31999,512
+Hp Victus 16 R0020Nt,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,16.1,5200,Black,hp,49999,1024
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,8,Intel Core i5,15.6,3200,Metallic Grey,asus,30999,512
+Hp Victus B10Fpea,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,3200,Silver,hp,41599,512
+Casper Nirvana C550 1255,1.5,Shared,FreeDos,16,Intel Core i7,15.6,3200,Dark Grey,casper,18999,512
+Hp Victus 16 R1021Nt,3,Nvidia GeForce RTX 4070,FreeDos,32,Intel Core i7,16.1,5600,Blue,hp,66999,1024
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,acer,27599,512
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i5,15.6,3200,Black,casper,31299,512
+Onda Oliver Book,1.5,Intel HD Graphics 600,Windows 11 Pro,8,Intel Pentium,10.1,2400,White,onda,5409,128
+Lenovo Ideapad Slim 3 15Iah8,1,Intel UHD Graphics,FreeDos,8,Intel Core i5,15.6,4800,Grey,lenovo,16789,256
+Dell Latitude 5290 2,1,Shared,Windows 10 Pro,16,Intel Core i5,12.3,2400,"Dark Gray, Black",dell,16999,256
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,37799,1024
+Monster Abra A5 V21,1.5,Nvidia GeForce RTX 2050,FreeDos,16,Intel Core i7,15.6,3200,Black,monster,31299,500
+Msi Modern 14 C12Mo,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,14,3200,Black,msi,21799,512
+Lenovo Loq 15Arp9 83Jc00Crtr,3,Nvidia GeForce RTX 4050,FreeDos,12,AMD Ryzen 7,15.6,4800,"Dark Gray, Black",lenovo,37999,1024
+Lenovo Yoga 6,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,13.3,4266,Blue,lenovo,32999,1024
+Msi Sword 17 Hx,3,Nvidia GeForce RTX 4070,FreeDos,32,Intel Core i9,17,5600,Dark Grey,msi,89999,1024
+Lenovo Loq,5,Nvidia GeForce RTX 3050,FreeDos,24,Intel Core i5,15.6,4800,Grey,lenovo,35519,512
+Hp Victus 15 Fa1073Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,3200,Grey,hp,36999,512
+Lenovo Ideapad Slim 3,1.5,Onboard,FreeDos,8,Intel Core i3,15.6,4800,Grey,lenovo,11799,512
+Asus Tuf Gaming A16 Advantage,3,AMD Radeon RX 7600S,Windows 11 Home,16,AMD Ryzen 7,16,4800,Dark Grey,asus,40999,512
+Hp 250 G9,1,Shared,Windows 11 Pro,16,Intel Core i5,15.6,3200,Grey,hp,20699,512
+Lenovo Loq 15Iax9 83Gs007Wtr,3,Nvidia GeForce RTX 4050,FreeDos,8,Intel Core i5,15.6,4800,Grey,lenovo,33499,512
+Lenovo V15 G4,1.5,AMD Radeon 610M,FreeDos,8,AMD Ryzen 5,15.6,5500,Black,lenovo,12899,512
+Lenovo Thinkpad E14 21Jr0009Tx,1.5,Shared,FreeDos,16,AMD Ryzen 5,14,3200,Black,lenovo,23500,512
+Asus Tuf Gaming A15 Fa507Nvr,1.5,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 7,15.6,4800,"Dark Gray, Black",asus,45899,512
+Msi Thin A15 B7Ve,1.5,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 5,15.6,4800,Dark Grey,msi,37254,512
+Gigabyte Aorus 15,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,5600,Black,gigabyte,46999,1024
+Asus Vivobook 15 X1504Va,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Blue,asus,24999,512
+Msi Cyborg 15 A13Ve,1.5,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,5200,Black,msi,37882,1024
+Lenovo Ideapad 1 15Alc7,1.5,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 7,15.6,3200,Grey,lenovo,18399,512
+Dell Vostro 3520 01,1.5,Shared,Ubuntu,16,Intel Core i5,15.6,2666,Black,dell,17899,512
+Lenovo Loq,3,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 5,15.6,5600,Grey,lenovo,47185,1024
+Hp 15S Eq2006Nt,1.5,Shared,FreeDos,8,AMD Ryzen 5,15.6,3200,Black,hp,12557,256
+Monster Abra A7 V15,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i5,17.3,3200,Black,monster,39499,1024
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Black,dell,28449,1024
+Erazer Deputy P60I,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,3200,Dark Grey,erazer,43999,1024
+Casper Nirvana S100 300Nit,1,Intel Graphics,FreeDos,32,Intel Core i7,16,5600,Titanium Grey,casper,27299,1024
+Lenovo Ideapad 3 82Rk00X8Tx,1.5,Intel UHD Graphics,Windows 11 Home,8,Intel Core i3,15.6,3200,Grey,lenovo,13950,256
+Asus Vivobook X1502Za 15,1.5,Intel UHD Graphics,Windows 11 Home,16,Intel Core i5,15.6,3200,Dark Blue,asus,19499,512
+Lenovo Ideapad 3,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i3,15.6,2666,Metallic Grey,lenovo,15499,512
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i7,15.6,3200,Metallic Grey,asus,44499,512
+Dell Vostro 3530 N1601Pvnb3530U10,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Black,dell,27999,512
+Lenovo V15 G3,1.5,Intel UHD Graphics,FreeDos,8,Intel Core i5,15.6,3200,Black,lenovo,18810,512
+Asus Rog Strix G16 G615Lr,3,Nvidia GeForce RTX 5070Ti,FreeDos,32,Intel Core Ultra 7,16,5600,Dark Grey,asus,107999,1024
+Lenovo Ideapad Slim 5,1.5,Onboard,FreeDos,16,AMD Ryzen 5,14,6400,Grey,lenovo,26999,512
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i5,15.6,3200,Black,dell,22599,512
+Acer Nitro 16 An16,3,Nvidia GeForce RTX 4070,FreeDos,64,AMD Ryzen 7,16,5600,Black,acer,74999,1024
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i7,15.6,3200,Black,casper,35557,1024
+Msi Sword 17 Hx,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,17,5600,Grey,msi,60799,1024
+Lenovo Ideapad 1,1,Onboard,FreeDos,8,AMD Ryzen 5,15.6,3200,Grey,lenovo,13999,512
+Acer Nitro V 15 Anv15,3,Nvidia GeForce RTX 4050,FreeDos,8,Intel Core i5,15.6,5200,Black,acer,31999,512
+Lenovo V15 G3,1.5,Shared,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,21699,512
+Hp Victus Laptop 16 R0065Nt,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,16.1,5200,Black,hp,54999,1024
+Lenovo Ideapad,1.5,Shared,FreeDos,16,AMD Ryzen 7,15.6,3200,Grey,lenovo,17953,512
+Dell G16 7630,3,Nvidia GeForce RTX 4070,Linux,32,Intel Core i9,16,5600,Black,dell,80999,1024
+Asus Vivobook 15,1.5,Intel UHD Graphics,Windows 11 Home,16,Intel Core i5,15.6,3200,Metallic Grey,asus,19999,512
+Lenovo Ideapad Gaming 3,3,Nvidia GeForce RTX 2050,FreeDos,8,AMD Ryzen 5,15.6,3200,Black,lenovo,22465,512
+Lenovo Yoga Slim 6 14Iap8,1.5,Intel Iris Xe Graphics,Windows 11 Home,8,Intel Core i5,14,4800,Grey,lenovo,27899,512
+Lenovo Loq 15Arp9 83Jc00Crtrv2,3,Nvidia GeForce RTX 4050,FreeDos,28,AMD Ryzen 7,15.6,4800,Grey,lenovo,41570,1024
+Acer Swift 3 Sf314,1.5,AMD Radeon Graphics,Linux,8,AMD Ryzen 5,14,4266,Silver,acer,13480,512
+Casper Nirvana C370 4020,1.5,Intel UHD Graphics 600,Windows 11 Home,4,Intel Celeron,15.6,2666,Metallic Grey,casper,9799,120
+Lenovo 16 Thinkbook,1.5,AMD Radeon Graphics,FreeDos,16,7730U,16,3200,Grey,lenovo,25999,512
+Lenovo Yoga 7,1.5,AMD Radeon 780M,FreeDos,16,AMD Ryzen 7,14,6400,Grey,lenovo,39902,1024
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,casper,31699,1024
+Lenovo Nb E16 Thinkpad,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,16,3200,Metallic Black,lenovo,27551,512
+Onda Oliver Book,1.5,Intel HD Graphics 600,Windows 11 Pro,8,Intel Pentium,10.1,2400,White,onda,6599,256
+Lenovo Yoga 7,1.5,Intel Arc Graphics,Windows 11 Home,16,Intel Core Ultra 7,14,7467,Blue,lenovo,54999,512
+Lenovo Ideapad 1 15Alc7,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,15.6,3200,Grey,lenovo,17812,512
+Hp 250 G9,1,Intel Iris Xe Graphics,FreeDos,8,Intel Core i5,15.6,3200,Grey,hp,16120,512
+Lenovo Ideapad 1 15Alc7,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,15.6,3200,Grey,lenovo,16720,512
+Acer Extensa 15,1.5,Intel HD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,"Dark Gray, Black",acer,18793,512
+Lenovo Nb V15,1.5,Shared,Windows 11 Pro,16,AMD Ryzen 5,15.6,4800,Black,lenovo,17699,512
+Casper Nirvana X600 1245,1.5,Shared,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,18699,1024
+Dell Vostro 3530,1.5,Intel UHD Graphics,FreeDos,32,Intel Core i7,15.6,3200,Black,dell,26029,1024
+Lenovo Ideapad Gaming 3,3,Nvidia GeForce RTX 2050,FreeDos,16,AMD Ryzen 5,15.6,3200,Black,lenovo,23176,512
+Acer Nitro Anv15 51,3,Nvidia GeForce RTX 2050,Windows 11 Home,8,Intel Core i5,15.6,4800,Black,acer,25899,512
+Asus Vivobook S 14 Flip,1.5,Intel HD Graphics,Windows 11 Home,16,Intel Core i5,14,3200,Silver,asus,39499,512
+Asus Vivobook 15 X1504Za,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,3200,Silver,asus,22411,512
+Lenovo Ideapad 1,1.5,Intel UHD Graphics 600,FreeDos,8,Intel Celeron,15.6,2400,Grey,lenovo,11749,256
+Dell Inspiron 15 3520,1.5,Shared,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,dell,19899,512
+Asus Vivobook 15,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Metallic Grey,asus,30379,1024
+Dell 3530,1,Shared,FreeDos,32,Intel Core i5,15.6,3200,Black,dell,20958,512
+Dell Latitude 3550,1,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,5600,Black,dell,41399,512
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,23999,512
+Casper Nirvana X600 1235,1.5,Shared,FreeDos,8,Intel Core i5,15.6,3200,Grey,casper,15119,250
+Lenovo Ideapad 1 15Alc7,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,lenovo,19679,1024
+Lenovo Ideapad Gaming 3,1.5,Nvidia GeForce RTX 2050,Windows 11 Pro,32,AMD Ryzen 5,15.6,3200,Black,lenovo,32339,1024
+Dell Inspiron 3520 I5,3,Intel Iris Xe Graphics,Windows 11 Pro,8,Intel Core i5,15.6,2666,Black,dell,17799,512
+Lenovo Ideapad Duet 5 12Iru8,1,Shared,FreeDos,16,Intel Core i7,12.4,4266,Grey,lenovo,45360,512
+Xiaomi Redmibook 15E,1,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i7,15.6,3200,Grey,xiaomi,21649,512
+Acer Nitro V15 Anv15,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,5200,Black,acer,32278,512
+Dell Vostro 15 3530,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,2666,Grey,dell,29199,1024
+Lenovo Loq,3,Nvidia GeForce RTX 4060,FreeDos,24,AMD Ryzen 7,15.6,4800,Grey,lenovo,46999,512
+Erazer Deputy P60,3,Nvidia GeForce RTX 4070,Windows 11 Home,16,Intel Core i7,15.6,3200,Dark Grey,erazer,54399,1024
+Hp Victus 16 S1003Nt,3,Nvidia GeForce RTX 4070,FreeDos,32,AMD Ryzen 7,16.1,5600,Blue,hp,70999,1024
+Casper Excalibur G770 1265,2.5,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i7,15.6,3200,Black,casper,32499,512
+Hp Omen 17 Db0019Nt,3,Nvidia GeForce RTX 4070,FreeDos,32,AMD Ryzen 7,17.3,5600,Black,hp,65999,1024
+Hp Victus Gaming Laptop 16 S1031Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 5,16.1,5600,Blue,hp,37599,512
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i7,15.6,3200,Black,casper,34099,512
+Asus Rog Strix Scar 18 G835Lw,3,Nvidia GeForce RTX 5080,FreeDos,64,Intel Core Ultra 9,18,5600,Black,asus,194999,2048
+Hp Elitebook 640 G10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,14,3200,Silver,hp,34500,512
+Asus Rog Strix G16 G614Ju,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,16,4800,Grey,asus,59999,512
+Hp 15S Eq2000Nt,1.5,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 7,15.6,3200,Silver,hp,19499,1024
+Lenovo V15 G4,1.5,Intel UHD Graphics,FreeDos,8,13420H,15.6,3200,Black,lenovo,18056,256
+Lenovo Ideapad Slim 3 16Iah8,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i5,16,4800,Grey,lenovo,23999,512
+Asus Rog Strix G16 G614Fr,3,Nvidia GeForce RTX 5070Ti,FreeDos,32,AMD Ryzen 9,16,5600,Black,asus,118999,1024
+Dell Vostro 3530,1.5,Intel UHD Graphics,Ubuntu,32,Intel Core i7,15.6,3200,Black,dell,24160,512
+Hp Omen 17 Db0021Nt,1.5,Nvidia GeForce RTX 4070,FreeDos,16,AMD Ryzen 7,17.3,5600,Black,hp,61999,1024
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i5,16,3200,Black,asus,42388,1024
+Asus Zenbook 14 Oled,3,Shared,Windows 11 Home,16,Intel Core Ultra 5,14,7467,Blue,asus,40499,512
+Dell Inspiron 3520 I5,3,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,2666,Black,dell,18999,512
+Hp 250 G10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,64,Intel Core i7,15.6,3200,Grey,hp,32785,1024
+Lenovo V15 G4,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,24148,1024
+Dell Vostro 3520,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i5,15.6,3200,Dark Grey,dell,22399,1024
+Lenovo V15 G4,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Black,lenovo,24899,512
+Acer Nitro 5,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,4800,Black,acer,38999,1024
+Asus Vivobook Go 15,1.5,Intel UHD Graphics,Windows 11 Home,8,Intel Core i3,15.6,3200,Grey,asus,14999,256
+Dell Gaming G15 5530,3,Nvidia GeForce RTX 4050,Ubuntu,16,Intel Core i7,15.6,4800,"Black, Grey",dell,43257,512
+Lenovo Ideapad 5 2,1.5,Onboard,FreeDos,16,Ryzen 5,14,6400,Blue,lenovo,29999,512
+Lenovo V15 G4,1,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,3200,Black,lenovo,20159,512
+Lenovo Nb V15 83A10096Tr,1,Intel Iris Xe Graphics,Android,1,Intel Based,15.6,1066,"Gold, Metallic Black",lenovo,19736,512
+Casper Nirvana C550 1255,1.5,Shared,FreeDos,32,Intel Core i7,15.6,3200,Dark Grey,casper,24725,1024
+Lenovo Legion Pro 7,3,Nvidia GeForce RTX 4080,FreeDos,32,Intel Core i9,16,5600,Black,lenovo,129999,1024
+Asus Vivobook Go 15 E1504Ga,1.5,Intel UHD Graphics,FreeDos,8,Intel Core i3,15.6,3200,Silver,asus,12199,512
+Asus Tuf Gaming A15 Fa507Nv,3,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 5,15.6,4800,Black,asus,42498,512
+Lenovo V15 82Tv009Dtx,3,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 7,15.6,3200,Black,lenovo,17799,512
+Lenovo Ideapad Slim 3 15Irh8,3,Intel UHD Graphics,FreeDos,16,Intel Core i7,15.6,4800,Grey,lenovo,37283,1024
+Msi Cyborg 15 A13Ve,1.5,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,5200,Black,msi,42901,512
+Lenovo Yoga Slim 7,1,Intel Arc Graphics,Windows 11 Home,16,Intel Core Ultra 5,14,7467,Grey,lenovo,38999,512
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,16,3200,Black,asus,41471,1024
+Dell Vostro 3520 N1611Pvnb3520U,1,Intel Iris Xe Graphics,FreeDos,8,Intel Core i5,15.6,3200,Dark Grey,dell,17999,512
+Lenovo V15 G3,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,20975,512
+Monster Tulpar T6 V2,1.5,Nvidia GeForce RTX 4070,Windows 11 Home,32,Core Ultra 7,16,5600,Black,monster,85694,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 2050,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,29309,1024
+Lenovo V15 82Yu0122Tx,1,AMD Radeon 610M,FreeDos,8,AMD Ryzen 5,15.6,5500,Black,lenovo,12576,256
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i5,15.6,3200,Black,acer,31499,1024
+Acer Nitro V15 Nh,3,Nvidia GeForce RTX 3050,Windows 11 Home,32,13420H,15.6,4800,Black,acer,31999,512
+Dell Vostro 3530,1.5,Intel Iris Xe Graphics,Linux,16,Intel Core i7,15.6,2666,Grey,dell,22972,512
+Lenovo Ideapad Slim 3,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i7,15.6,4800,Grey,lenovo,38999,1024
+Asus Tuf Gaming F15 Fx507Vv,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,4800,Black,asus,51998,512
+Lenovo V15 G4,3,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Black,lenovo,24999,1024
+Asus Vivobook 15,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Navy Blue,asus,21899,512
+Hp 250 G9,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Silver,hp,19298,512
+Lenovo Ideapad Slim 3 15Amn8,1.5,AMD Radeon 610,FreeDos,8,AMD Ryzen 3,15.6,4800,Grey,lenovo,12799,512
+Acer Aspire 3 A315,3,Intel Iris Xe Graphics,Linux,8,Intel Core i5,15.6,3200,Silver,acer,13861,512
+Dell Inspiron 15 3511,1.5,Intel Iris Xe Graphics,Windows 10 Pro,16,Intel Core i5,15.6,2666,Black,dell,20999,1024
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Ubuntu,16,Intel Core i5,15.6,3200,Black,dell,18398,512
+Msi Thin 15 B12Ve,1,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,msi,36240,512
+Hp 250 G10,1.5,Onboard,FreeDos,16,Intel Core i7,15.6,3200,Grey,hp,23999,512
+Lenovo Ideapad 1 82R400R6Tx,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 5,15.6,3200,Grey,lenovo,14999,512
+Acer Nitro V 15 Anv15,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,4800,Black,acer,38367,512
+Lenovo Ideapad 3 17Iau7,3,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,17.3,3200,Grey,lenovo,25999,512
+Huawei Matebook D16,1.5,Shared,Windows 11 Home,8,Intel Core i5,16,3733,Grey,huawei,29999,512
+Monster Abra A7 V15,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,17.3,3200,Black,monster,38299,1024
+Msi Vector 16 Hx,3,Nvidia GeForce RTX 4080,Windows 11 Home,16,Intel Core i7,16,5600,Black,msi,144000,1024
+Erazer Deputy P60I,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,3200,Dark Grey,erazer,37000,512
+Monster Abra A7 V16,5,Nvidia GeForce RTX 4050,FreeDos,64,Intel Core i7,17.3,4800,Black,monster,56799,1024
+Hp Victus 16 R0029Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,16.1,5200,Grey,hp,45980,1024
+Hp 250 G10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Grey,hp,27256,512
+Msi Cyborg 15 A13Vf,1.5,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,5200,Black,msi,48299,1024
+Casper Nirvana X600,1,Shared,FreeDos,16,AMD Ryzen 5,15.6,3200,Grey,casper,17599,1024
+Lenovo Ideapad Slim 3 16Iah8,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,16,4800,Grey,lenovo,26999,1024
+Asus Vivobook 15,1.5,Intel UHD Graphics,Windows 11 Home,16,Intel Core i5,15.6,3200,Metallic Grey,asus,21999,1024
+Lenovo Loq 15Iax9 83Gs007Wtr16,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,4800,Dark Grey,lenovo,35499,512
+Lenovo Ideapad Gaming 3,1,Nvidia GeForce RTX 2050,FreeDos,16,AMD Ryzen 5,15.6,3200,Black,lenovo,23519,512
+Hp Victus 80D30Ea 15,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,Intel Core i5,15.6,3200,Blue,hp,31499,512
+Msi Cyborg 15 A13Vf,1.5,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,5200,Black,msi,42999,1024
+Casper Nirvana X600,1,Shared,FreeDos,32,AMD Ryzen 5,15.6,3200,Grey,casper,17499,500
+Lenovo V14 G4,1.5,Intel Iris Pro Graphics,FreeDos,8,1280P,15.6,3200,Black,lenovo,15999,250
+Asus Rog Zephyrus G16 Gu605Cr,1,Nvidia GeForce RTX 5070Ti,FreeDos,32,Intel Core Ultra 9,16,7467,Silver,asus,149999,2048
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4070,FreeDos,64,Intel Core i9,16,4800,Grey,casper,81399,2048
+Lenovo Ideapad,1,Intel UHD Graphics,FreeDos,8,Intel Core i3,15.6,3200,Grey,lenovo,11999,512
+Lenovo V15 G4,1,Intel UHD Graphics,FreeDos,8,Intel Core i5,15.6,3200,Black,lenovo,18191,512
+Asus Tuf Gaming F15 Fx507Zc4A21,3,Nvidia GeForce RTX 3050,FreeDos,16,12500H,15.6,3200,Black,asus,30624,512
+Lenovo V15 G4,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,21599,256
+Monster Abra A7 V15,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,Intel Core i5,17.3,3200,Black,monster,41299,1024
+Casper Nirvana X600 5700,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,15.6,3200,Grey,casper,26400,512
+Hp Victus 16 R1064Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,16.1,5600,Black,hp,42923,512
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,40799,1024
+Lenovo V15 G4,3,AMD Radeon Graphics,Windows 11 Pro,8,AMD Ryzen 5,15.6,4800,Black,lenovo,15013,256
+Lenovo Ideapad 1,1,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,14,3200,"Grey, Silver",lenovo,18399,1024
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,lenovo,25299,512
+Msi Titan 18 Hx,3,Nvidia GeForce RTX 5090,Windows 11 Pro,96,Intel Core Ultra 9,18,6400,Black,msi,605759,6144
+Acer Aspire 3 A315,1,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 5,15.6,5500,Silver,acer,14500,512
+Lenovo Ideapad 3,1.5,Intel UHD Graphics,Windows 11 Pro,8,Intel Core i3,15.6,2666,Metallic Grey,lenovo,14799,256
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,17.3,3200,Black,monster,55888,1024
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,15.6,3200,Black,monster,46999,1024
+Lenovo Ideapad Slim 3 15Irh8,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i7,15.6,4800,Grey,lenovo,38999,1024
+Asus Rog Strix G16 G614Jv,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,16,4800,Dark Grey,asus,73999,512
+Asus Vivobook S 14 Flip,1,AMD Radeon Graphics,Windows 11 Home,24,AMD Ryzen 5,14,3200,Grey,asus,41999,2048
+Lenovo Thinkpad E14 Gen,1,Intel Arc Graphics,FreeDos,32,Intel Core Ultra 7,14,5600,Black,lenovo,42999,1024
+Msi Vector 16 Hx,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,5200,Black,msi,143999,2048
+Hp 250 G9,1.5,Shared,FreeDos,16,Intel Core i5,15.6,3200,Grey,hp,17899,512
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i7,15.6,3200,Black,casper,37499,2048
+Lenovo Loq 15Arp9,3,Nvidia GeForce RTX 3050,FreeDos,16,AMD Ryzen 5,15.6,4800,Grey,lenovo,32226,512
+Msi Cyborg 15,3,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i7,15.6,5200,Black,msi,57593,1024
+Dell Inspiron 3520,3,Intel UHD Graphics,FreeDos,32,Intel Core i7,15.6,3200,Grey,dell,25120,512
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,dell,27500,1024
+Lenovo V15 G4,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,22399,512
+Msi Katana 17,1.5,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,17.3,5200,Black,msi,71441,1024
+Casper Nirvana S100 300Nit,1,Intel Graphics,FreeDos,16,Intel Core i7,16,5600,Titanium Grey,casper,24299,500
+Lenovo Legion Pro 7,3,Nvidia GeForce RTX 4090,Windows 11 Home,32,Intel Core i9,16,5600,Black,lenovo,141999,1024
+Lenovo V15 G4,1.5,Shared,FreeDos,8,AMD Ryzen 7,15.6,3200,Black,lenovo,16305,512
+Dell Vostro 3520,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Dark Grey,dell,19799,512
+Acer Nitro 5 Anv15,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,Intel Core i5,15.6,5600,Black,acer,35999,1024
+Lenovo V15 G3,1,AMD Radeon Graphics,Windows 11 Home,16,AMD Ryzen 7,15.6,3200,Black,lenovo,20799,512
+Hp 250 G10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Grey,hp,21582,512
+Asus Tuf Gaming F15 Fx507Zc4A36,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,12500H,15.6,3200,Black,asus,44059,4096
+Asus Expertbook P1 P1503,1,Intel UHD Graphics,FreeDos,32,Intel Core i7,15.6,5600,Metallic Grey,asus,39983,1024
+Lenovo Ideapad Slim 5,1.5,Intel Arc Graphics,FreeDos,16,Intel Core Ultra 5,14,7467,Grey,lenovo,32900,512
+Lenovo Thinkbook 16 21Kh001Etr,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,16,5200,Grey,lenovo,26299,512
+Lenovo V15 G4,1,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,3200,Black,lenovo,19528,512
+Lenovo Thinkbook 14 G6,3,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,14,5200,Grey,lenovo,37301,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,41858,1024
+Dell Inspiron 3520,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Black,dell,25969,1024
+Lenovo Thinkbook 14 G6,3,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,14,5200,Grey,lenovo,42630,1024
+Asus Vivobook X1502Za Ej106602,1.5,Intel UHD Graphics,FreeDos,24,Intel Core i5,15.6,3200,Blue,asus,22799,1024
+Lenovo Ideapad Slim 3,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i7,15.6,4800,Grey,lenovo,37999,512
+Lenovo V15 G3,1,Shared,FreeDos,16,Intel Core i3,15.6,3200,Black,lenovo,14199,512
+Lenovo Thinkpad E14 Gen,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 5,14,3200,Black,lenovo,24400,512
+Dell Vostro 3510,1,Intel UHD Graphics,Ubuntu,8,Intel Core i5,15.6,3200,Black,dell,20456,256
+Monster Tulpar T6 V3,3,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i7,16,4800,Black,monster,60899,1024
+Dell Vostro 3520,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i5,15.6,3200,Black,dell,25799,1024
+Acer Nitro V 15 Anv15,3,Nvidia GeForce RTX 4050,Windows 11 Pro,64,Intel Core i7,15.6,5600,Black,acer,54999,1024
+Lenovo V15 Gen2,1.5,Shared,Windows 11 Pro,16,Intel Core i7,15.6,3200,"Dark Grey, Black",lenovo,29000,1024
+Acer Aspire 3 A315,1.5,AMD Radeon Graphics,Windows 11 Home,16,AMD Ryzen 5,15.6,3200,Grey,acer,16999,512
+Lenovo Thinkpad E14 Gen,1.5,Shared,Windows 11 Pro,16,Intel Core i5,14,3200,Black,lenovo,31999,512
+Lenovo V15,1.5,AMD Radeon Graphics,Windows 11 Home,40,AMD Ryzen 7,15.6,3200,Black,lenovo,29371,1024
+Lenovo Thinkpad E16 Gen,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,16,3200,Black,lenovo,30831,512
+Lenovo Ideapad 1 15Alc7,1.5,Shared,FreeDos,8,AMD Ryzen 5,15.6,3200,Grey,lenovo,13700,512
+Lenovo Ideapad 3 17Alc6,3,AMD Radeon Graphics,FreeDos,20,AMD Ryzen 7,17.3,3200,Grey,lenovo,25349,512
+Hp 250 G9,1,Shared,FreeDos,8,Intel Core i5,15.6,3200,Grey,hp,16421,512
+Hp 15 Fd1002Nt,1.5,Intel HD Graphics,FreeDos,16,Intel Core i7,15.6,3200,Grey,hp,33549,512
+Hp 250 G10,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Silver,hp,35671,1024
+Asus Rog Strix G16,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i9,16,5600,Black,asus,102551,1024
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Black,dell,27500,512
+Asus Vivobook Go 15,1,Intel UHD Graphics,FreeDos,8,Intel Core i3,15.6,3200,Black,asus,11327,128
+Monster Abra A5 V21,1.5,Nvidia GeForce RTX 2050,FreeDos,16,Intel Core i7,15.6,3200,Black,monster,39998,1024
+Hp 15 Fc0003Nt,3,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 3,15.6,6400,Black,hp,10499,256
+Huawei Matebook D15,1.5,Intel UHD Graphics,Windows 11 Home,8,Intel Core i3,15.6,3733,Grey,huawei,25000,256
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Black,monster,37199,500
+Dell Vostro 3520 N1614Pvnb3520U06,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i3,15.6,3200,Black,dell,15999,1024
+Asus Asusvivobook E1504,1.5,Intel UHD Graphics,Windows 11 Home,8,Intel Core i3,15.6,3200,Silver,asus,12869,256
+Dell Inspiron 3520,3,Intel UHD Graphics,FreeDos,16,Intel Core i7,15.6,3200,Grey,dell,23292,512
+Casper Nirvana X600 1270,1.5,Shared,Windows 11 Home,16,Intel Core i7,15.6,3200,Grey,casper,26499,1024
+Lenovo Thinkpad E14 Gen,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,14,3200,Black,lenovo,39300,512
+Dell Gaming G15 5530,3,Nvidia GeForce RTX 4060,Ubuntu,32,Intel Core i7,15.6,4800,Black,dell,57772,1024
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Windows 11 Home,32,Intel Core i5,15.6,3200,Black,dell,24799,1024
+Asus Vivobook 15 X1504Va,1,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,3200,Silver,asus,19199,512
+Lenovo Ideapad Slim 3 15Iah8,1,Intel UHD Graphics,Windows 11 Pro,8,Intel Core i5,15.6,4800,Grey,lenovo,17149,512
+Asus Vivobook 15 13,1.5,Intel Iris Xe Graphics,Windows 11 Home,24,Intel Core i7,15.6,3200,Metallic Grey,asus,30379,1024
+Dell Vostro 3520,1.5,Intel Iris Xe Graphics,FreeDos,8,Intel Core i5,15.6,2666,Grey,dell,16624,512
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 2050,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,28499,1024
+Hp Envy X360,1,Intel Graphics,Windows 11 Home,16,Intel Core Ultra 5,16,6400,Grey,hp,35997,512
+Lenovo Ideapad Slim 3 12,1.5,Intel UHD Graphics,Windows 11 Home,8,Intel Core i5,15.6,4800,Grey,lenovo,18999,512
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i7,15.6,3200,Black,monster,52099,1024
+Asus X1504Za Nj547W,1.5,Intel Iris Xe Graphics,Windows 11 Home,8,Intel Core i5,15.6,3200,Blue,asus,16682,512
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,casper,53984,2048
+Monster Abra A7 V15,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,17.3,3200,Black,monster,36099,500
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,lenovo,21999,512
+Lenovo V15 G3,3,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,lenovo,20889,512
+Msi Titan 18 Hx,3,Nvidia GeForce RTX 5090,Windows 11 Pro,96,Intel Core Ultra 9,18,6400,Black,msi,341499,6144
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i7,15.6,3200,Grey,casper,49167,1024
+Monster Huma H5 V4,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Black,monster,28999,500
+Dell 3530,1,Shared,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,dell,21853,512
+Hp 450 G8,1.5,Intel HD Graphics,Windows 10 Pro,4,Intel Core i3,15.6,2666,Silver,hp,14085,256
+Asus Vivobook 15 X1504Va,3,Intel Iris Graphics,Windows 11 Home,16,Intel Core i7,15.6,3200,Grey,asus,29499,1024
+Lenovo Legion 9,3,Nvidia GeForce RTX 4090,FreeDos,64,Intel Core i9,16,5600,Black,lenovo,229999,2048
+Hp Probook 450 G9,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Silver,hp,37770,1024
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,lenovo,30379,1024
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,acer,29999,1024
+Hp Victus 16 S0022Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 7,16.1,5600,Blue,hp,39999,512
+Lenovo E15 21E6006Ytx,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Black,lenovo,31360,512
+Dell Latitude 3540 N032L354015Wp,1.5,Shared,Windows 11 Pro,8,Intel Core i5,15.6,3200,Dark Grey,dell,34572,512
+Lenovo V15 G3,1.5,Shared,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,lenovo,21326,512
+Asus Tuf Gaming A15,3,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 7,15.6,4800,Black,asus,48193,512
+Asus Vivobook 15 X1504Za,1.5,Shared,Windows 11 Pro,16,Intel Core i5,15.6,3200,Navy Blue,asus,25999,2048
+Dell Latitude 3550,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,5600,Black,dell,42194,512
+Asus Tuf Gaming F15 Fx506Hf,3,Nvidia GeForce RTX 2050,FreeDos,8,11400H,15.6,3200,Black,asus,34799,512
+Dell Latitude 3540,3,Intel Iris Xe Graphics,FreeDos,32,Intel Core i5,15.6,3200,Grey,dell,26057,1024
+Dell Latitude 3540,3,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Grey,dell,30449,1024
+Hp 255 G9,1.5,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 7,15.6,3200,Grey,hp,21599,512
+Lenovo Ideapad 3 15Iau7,1.5,Shared,Windows 11 Pro,24,Intel Core i3,15.6,3200,Grey,lenovo,27271,1024
+Acer Extensa 15 Ex215,1.5,Intel UHD Graphics,Windows 11 Pro,24,Intel Core i7,15.6,3200,Black,acer,27450,512
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,casper,44659,1024
+Lenovo Yoga 7,1.5,Shared,Windows 11 Home,16,Intel Core i7,16,5200,Grey,lenovo,68999,1024
+Lenovo Ideapad Gaming 3,1.5,Nvidia GeForce RTX 2050,Windows 11 Pro,16,AMD Ryzen 5,15.6,3200,Black,lenovo,30379,1024
+Asus Vivobook 15,1.5,Intel UHD Graphics,Windows 11 Home,12,Intel Core i3,15.6,3200,Navy Blue,asus,15499,512
+Lenovo Ideapad 3,1.5,Intel UHD Graphics,Windows 11 Pro,8,Intel Core i3,15.6,2666,Metallic Grey,lenovo,14499,512
+Msi Modern 15 B12Mo,1,Intel Iris Xe Graphics,Windows 10 Pro,8,Intel Core i5,15.6,3200,Black,msi,27200,512
+Lenovo Ideapad Gaming 3,1.5,Nvidia GeForce RTX 2050,Windows 11 Pro,32,AMD Ryzen 5,15.6,3200,Black,lenovo,29889,512
+Dell Latitude 3450,1,Intel HD Graphics,Windows 11 Pro,16,Intel Core i5,14,5600,"Dark Gray, Black",dell,30000,256
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,64,Intel Core i5,15.6,3200,Black,casper,50599,1024
+Dell Latitude 5540,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,dell,53650,512
+Dell Latitude 3540,3,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,15.6,3200,Grey,dell,28745,512
+Lenovo Ideapad 1,1.5,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 7,15.6,3200,Grey,lenovo,17499,512
+Dell Nb Vostro 3520 N2062Pvnb3520U,1,Intel Iris Xe Graphics,FreeDos,8,1135G7,15.6,2666,"Dark Gray, Black",dell,17819,256
+Dell Latitude 3550 N010L355015U08,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,5600,Dark Grey,dell,41553,512
+Dell Latitude 3540,1.5,Intel Iris Xe Graphics,Windows 11 Pro,8,Intel Core i5,15.6,3200,Black,dell,34270,256
+Hp 255 G9,1,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 7,15.6,3200,Grey,hp,20806,512
+Lenovo Ideapad Gaming 3,1.5,Nvidia GeForce RTX 2050,Windows 11 Pro,16,AMD Ryzen 5,15.6,3200,Black,lenovo,28419,512
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,32,Intel Core i5,15.6,3200,Black,casper,49499,1024
+Lenovo V15 G4,1.5,Intel UHD Graphics,Windows 11 Pro,24,Intel Core i5,15.6,3200,Black,lenovo,25690,1024
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i5,15.6,3200,Black,casper,43559,1024
+Acer Aspire Lite Al16 51P,1,Intel Iris Xe Graphics,Windows 11 Pro,32,1235U,16,4800,Grey,acer,24399,1024
+Hp 255 G9,1.5,AMD Radeon Graphics,FreeDos,32,AMD Ryzen 7,15.6,3200,Grey,hp,23999,512
+Lenovo Ideapad 3,1.5,Shared,FreeDos,8,AMD Ryzen 7,15.6,3200,Grey,lenovo,18999,512
+Asus Vivobook 15,1.5,Intel UHD Graphics,FreeDos,8,Intel Core i7,15.6,3200,Navy Blue,asus,29999,512
+Lenovo Ideapad 1,1.5,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 7,15.6,3200,Grey,lenovo,16749,256
+Asus Tuf Gaming A15 Fa507Nu,3,Nvidia GeForce RTX 4050,FreeDos,8,AMD Ryzen 7,15.6,4800,Grey,asus,45799,512
+Lenovo Ideapad Gaming 3,1.5,Nvidia GeForce RTX 2050,Windows 11 Pro,16,AMD Ryzen 5,15.6,3200,Black,lenovo,33319,2048
+Dell Vostro 3520 N1611Pvnb3520U09,1,Intel Iris Xe Graphics,Windows 11 Pro,8,Intel Core i5,15.6,3200,Dark Grey,dell,18897,512
+Dell Vostro 3520,1.5,Shared,Windows 11 Pro,16,1235U,15.6,3200,Black,dell,20660,512
+Hp 250 G10,1.5,Intel UHD Graphics,Windows 11 Home,32,Intel Core i7,15.6,3200,Grey,hp,31999,1024
+Dell 3530,1,Shared,Windows 11 Pro,8,Intel Core i5,15.6,3200,Black,dell,26701,2048
+Msi Katana 15 B13Vgk,3,Nvidia GeForce RTX 4070,Windows 10 Pro,64,Intel Core i7,15.6,5600,Black,msi,94399,1024
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 10 Pro,32,Intel Core i5,15.6,3200,Black,casper,46199,1024
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 10 Pro,16,Intel Core i5,15.6,3200,Black,casper,43999,1024
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,casper,44659,1024
+Dell Latitude 3550 N010L355015U10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,5600,Dark Grey,dell,46009,512
+Hp Probook 450 G10,1,Intel Iris Xe Graphics,FreeDos,8,Intel Core i7,15.6,3200,Silver,hp,34789,512
+Lenovo V15 G4,1.5,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 5,15.6,4800,Black,lenovo,19749,1024
+Dell Nb Latitude N047L354015 W,3,Intel Iris Xe Graphics,Windows 11 Pro,16,1235U,15.6,3200,Black,dell,32299,512
+Lenovo Ideapad Duet 5 12Iru8,1.5,Shared,Windows 11 Home,8,Intel Core i5,12.4,4266,Grey,lenovo,44569,256
+Hp 250 G8,1,Intel Iris Xe Graphics,Windows 11 Home,8,Intel Core i5,15.6,3200,Grey,hp,17990,256
+Casper Nirvana X600 1235,1.5,Shared,Windows 11 Pro,32,Intel Core i5,15.6,3200,Grey,casper,21590,512
+Hp 250 G8,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,15.6,3200,Grey,hp,28159,256
+Dell Vostro 3510,1.5,Intel UHD Graphics 610,Linux,8,Intel Core i3,15.6,2666,Black,dell,17478,256
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,32,Intel Core i5,15.6,3200,Black,casper,49499,1024
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,8,Intel Core i5,15.6,3200,Grey,asus,32999,512
+Acer Aspire Lite Al16 51P,1,Intel Iris Xe Graphics,Windows 11 Pro,32,1235U,16,4800,Grey,acer,22499,512
+Msi Katana 17 B13Vfk,3,Nvidia GeForce RTX 4060,Windows 11 Pro,64,Intel Core i7,17.3,5600,Black,msi,87999,1024
+Asus Vivobook 15 X1502Za,1.5,Intel Iris Xe Graphics,Windows 11 Home,8,1235U,15.6,3200,Grey,asus,19999,512
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,FreeDos,64,Intel Core i5,15.6,3200,Black,casper,47299,1024
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 10 Pro,64,Intel Core i5,15.6,3200,Black,casper,49829,1024
+Asus Vivobook 15 X1504Za,1.5,Shared,Windows 11 Pro,24,Intel Core i3,15.6,3200,Silver,asus,20990,1024
+Msi Modern 15 B12Mo,1,Intel Iris Xe Graphics,Windows 10 Pro,8,Intel Core i5,15.6,3200,Black,msi,30799,1024
+Lenovo Loq,3,Nvidia GeForce RTX 4050,FreeDos,24,12450H,15.6,4800,Black,lenovo,37999,512
+Hp 250 G9,1.5,Shared,FreeDos,8,Intel Core i3,15.6,3200,Grey,hp,12980,512
+Hp 15S Eq2006Nt,1,AMD Radeon Graphics,Windows 11 Pro,32,AMD Ryzen 5,15.6,3200,Black,hp,19999,1024
+Dell Xps 13 9315,1.5,Shared,Windows 11 Pro,16,Intel Core i7,13.4,5200,Silver,dell,52662,512
+Lenovo Ideapad Slim 3,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i7,15.6,4800,Grey,lenovo,37244,1024
+Asus Vivobook 16X K3605Zc,1,Nvidia GeForce RTX 3050,Windows 11 Home,16,Intel Core i5,16,3200,Black,asus,34549,512
+Casper Nirvana X600,1,Shared,FreeDos,32,AMD Ryzen 5,15.6,3200,Grey,casper,19099,1024
+Hp 250 G9,1,Intel Iris Xe Graphics,FreeDos,32,Intel Core i5,15.6,3200,Grey,hp,29399,2048
+Asus Rog Strix G16 G614Jva34,3,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i7,16,4800,Grey,asus,88650,1024
+Dell Latitude 5440,1,Shared,Ubuntu,16,Intel Core i5,14,3200,Grey,dell,35169,512
+Lenovo Ideapad Slim 3,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i7,15.6,4800,Grey,lenovo,37999,512
+Lenovo Thinkbook Thinkbook 16P G5,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i9,16,5600,Metallic Grey,lenovo,107309,4096
+Asus Tuf Gaming F15,3,Nvidia GeForce RTX 3050,Windows 11 Home,24,Intel Core i5,16.6,3200,"Black, Grey",asus,35299,512
+Msi Vector 16 Hx,3,Nvidia GeForce RTX 5080,Windows 11 Home,32,Intel Core Ultra 9,16,6400,Grey,msi,157699,1024
+Lenovo V15,1.5,Intel Iris Xe Graphics,Windows 11 Pro,24,Intel Core i5,15.6,3200,Black,lenovo,27733,512
+Monster Abra A7 V15,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,13620H,17.3,3200,Black,monster,39000,500
+Dell Precision M7780 Xctop7780Emea,1.5,Quadro RTX 5000,Windows 11 Pro,32,Intel Core i9,17,5600,Grey,dell,215544,512
+Hp Probook X360 435,1.5,Shared,Windows 10 Pro,8,AMD Ryzen 3,13,3200,Silver,hp,30404,256
+Dell Inspiron 16 5620,1.5,Intel Iris Xe Graphics,Ubuntu,16,Intel Core i5,16,3200,Silver,dell,25899,512
+Monster Tulpar T5 V23,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i7,15.6,3200,Black,monster,54499,1024
+Lenovo V15 83A1008Xtr09,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,23671,512
+Hp 15S Eq2000Nt,3,AMD Radeon Graphics,Windows 11 Home,32,AMD Ryzen 7,15.6,3200,Metallic Grey,hp,24529,1024
+Acer Nitro V 15,3,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,15.6,4800,Metallic Black,acer,47137,1024
+Lenovo Thinkpad P16 Gen,2,Nvidia RTX 5000 ADA,Windows 11 Pro,192,Intel Core i9,16,5600,Grey,lenovo,399950,8192
+Lenovo Loq 15Irx9,3,Nvidia GeForce RTX 3050,Windows 11 Pro,64,Intel Core i7,15.6,4800,Metallic Grey,lenovo,67619,2048
+Lenovo V15 G4,1,Intel Iris Xe Graphics,FreeDos,8,13420H,15.6,3200,Black,lenovo,22796,512
+Lenovo Thinkpad E14 Gen,3,Shared,Windows 11 Pro,32,Intel Core Ultra 5,14,1066,Black,lenovo,41862,1024
+Lenovo Legion 9 16Irx8,3,Nvidia GeForce RTX 4080,FreeDos,32,Intel Core i9,16,6400,Black,lenovo,197998,1024
+Lenovo Thinkpad E14 Gen5,3,Shared,FreeDos,32,Intel Core i5,14,3200,Black,lenovo,37985,512
+Dell Latitude 3540,1.5,Intel Iris Xe Graphics,Windows 11 Home,20,Intel Core i5,15.6,3200,Black,dell,32983,512
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Windows 11 Home,32,Intel Core i7,15.6,3200,Black,dell,34263,1024
+Asus Vivobook 15 X1504Za,1.5,Intel Iris Xe Graphics,FreeDos,24,Intel Core i5,15.6,3200,Silver,asus,23699,1024
+Hp 250 G9,1,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 7,15.6,3200,Grey,hp,24399,512
+Msi Cyborg 15 A13Vfa39,1,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,15.6,4800,Black,msi,59503,2048
+Asus Tuf Gaming A15 Fa507Nvra79,3,Nvidia GeForce RTX 4060,FreeDos,32,AMD Ryzen 7,15.6,4800,Black,asus,56227,512
+Dell Gaming G15 5530,3,Nvidia GeForce RTX 4060,Windows 10 Home,16,Intel Core i7,15.6,4800,Black,dell,56772,1024
+Hp 250 G10,1.5,Nvidia GeForce MX550,FreeDos,32,Intel Core i5,15.6,3200,Grey,hp,28999,1024
+Dell Inspiron 3520,1.5,Intel UHD Graphics,Ubuntu,16,Intel Core i7,15.6,3200,Black,dell,22670,512
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,asus,34919,512
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i7,17.3,3200,Black,monster,62199,1024
+Dell Inspiron 3520 I5,3,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i5,15.6,2666,Black,dell,19589,1024
+Asus Expertbook P1 P1403,1,Intel UHD Graphics,Windows 11 Pro,32,Intel Core i7,14,5600,Metallic Grey,asus,40375,1024
+Msi Cyborg 15 A13Vf,1,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i7,15.6,5200,Black,msi,53799,512
+Casper Nirvana C550 1235,1.5,Shared,Windows 11 Home,16,Intel Core i5,15.6,3200,Dark Grey,casper,18166,512
+Lenovo Ideapad,1.5,AMD Radeon Graphics,FreeDos,16,AMD Ryzen 7,15.6,3200,Grey,lenovo,18065,256
+Lenovo Nb V15 82Yu0123Tx,1.5,AMD RX550 2 GB,Android,1,4600H,10,1066,"Gold, Black",lenovo,16999,1024
+Lenovo Ideapad 1,1,Shared,Windows 11 Home,4,Intel Celeron,15.6,1066,Grey,lenovo,9399,128
+Asus Vivobook 15 X1504Va,1,Intel UHD Graphics,Windows 11 Home,8,Intel Core i7,15.6,3200,Dark Blue,asus,25499,512
+Hp 255 G9,1,Shared,Windows 11 Pro,32,AMD Ryzen 5,15.6,3200,Grey,hp,19042,256
+Asus Tuf Gaming A15 Fa507Nura14,3,Nvidia GeForce RTX 4050,FreeDos,32,AMD Ryzen 7,15.6,4800,Black,asus,46008,1024
+Asus Tuf Gaming A15 Fa506Nf,3,Nvidia GeForce RTX 2050,FreeDos,16,AMD Ryzen 5,15.6,5600,Black,asus,33999,1024
+Msi Cyborg 15 A13Vea79,1,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,15.6,4800,Black,msi,52494,512
+Acer Nitro 5 Anv15,3,Nvidia GeForce RTX 3050,FreeDos,8,Intel Core i5,15.6,5600,Black,acer,30787,512
+Acer Extensa 15,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i7,15.6,3200,"Grey, Black",acer,22298,512
+Msi Raider 18 Hx,3,Nvidia GeForce RTX 5090,Windows 11 Home,64,Intel Core Ultra 9,18,6400,Black,msi,271499,4096
+Acer Aspire 5 A515,1.5,Intel UHD Graphics,Windows 11 Home,16,Intel Core i5,15.6,3200,"Dark Grey, Black",acer,20599,512
+Msi Cyborg 15,1.5,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i7,15.6,5200,Black,msi,62915,1024
+Asus Vivobook 15 X1504Va,1,Intel UHD Graphics,FreeDos,24,Intel Core i5,15.6,3200,Silver,asus,17999,512
+Monster Abra A7 V16,3,Nvidia GeForce RTX 4050,Windows 11 Home,64,Intel Core i7,17.3,4800,Black,monster,62099,1024
+Lenovo V15,1,AMD Radeon Graphics,Windows 11 Home,16,AMD Ryzen 5,15.6,5500,Black,lenovo,20999,1024
+Dell Inspiron 3530,1,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,15.6,3200,Black,dell,36259,512
+Dell Vostro 3530,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,dell,27353,512
+Hp 250 G9,1.5,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i5,15.6,3200,"Dark Grey, Black",hp,19499,512
+Asus Rog Strix G18 G815Lr,3,Nvidia GeForce RTX 5070Ti,FreeDos,32,Intel Core Ultra 9,18,5600,Black,asus,139999,1024
+Lenovo Thinkpad E15 21E6005Htx,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,33947,256
+Msi Thin 15 B12Uc,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,Intel Core i5,15.6,3200,"Dark Gray, Black",msi,31849,512
+Lenovo Thinkpad E16 Gen1,1.5,AMD Radeon Graphics,FreeDos,24,AMD Ryzen 7,16,3200,Metallic Black,lenovo,37441,1024
+Hp 250 G9,1.5,Intel UHD Graphics,Windows 10 Home,16,Intel Core i5,15.6,3200,Grey,hp,19686,512
+Dell Vostro 3520,1.5,Shared,Linux,8,Intel Core i7,15.6,2666,Black,dell,22481,512
+Lenovo Ideapad,1.5,Shared,FreeDos,24,AMD Ryzen 7,15.6,3200,Grey,lenovo,20472,1024
+Acer Nitro V 15 Anv15,3,Nvidia GeForce RTX 4050,Windows 11 Home,64,Intel Core i7,15.6,5600,Black,acer,53999,1024
+Hp Zbook Firefly 14 G10,1,AMD Radeon 780M,Windows 11 Pro,64,AMD Ryzen 7,14,5600,Metallic Grey,hp,75885,1024
+Asus Expertbook P1 P1503,1,Intel UHD Graphics,FreeDos,96,Intel Core i7,15.6,5600,Metallic Grey,asus,46941,512
+Asus Expertbook B5,1,Intel Iris Xe Graphics,Windows 11 Pro,8,Intel Core i7,16,4800,Black,asus,51471,1024
+Hp 250 G9,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i5,15.6,3200,Silver,hp,21699,512
+Casper Nirvana S100 300Nit,1,Intel Graphics,Windows 11 Home,8,Intel Core i5,16,5600,Titanium Grey,casper,22699,250
+Lenovo Ideapad 1,1.5,AMD Radeon Graphics,Windows 11 Home,32,AMD Ryzen 7,15.6,3200,Grey,lenovo,22899,512
+Lenovo Thinkpad E14 Gen,1.5,AMD Radeon Vega 7,Windows 11 Pro,24,AMD Ryzen 5,14,3200,Black,lenovo,28000,1024
+Dell Latitude 3550,1.5,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,15.6,5600,Metallic Black,dell,46353,512
+Asus Expertbook B1 B1503Cva,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,5600,"Dark Gray, Black",asus,41551,1024
+Lenovo V15 Gen,3,Shared,Windows 11 Pro,40,Intel Core i7,15.6,3200,Black,lenovo,32999,1024
+Lenovo Thinkpad X1 Carbon,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,14,5600,Black,lenovo,80249,1024
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 4060,Windows 11 Pro,64,Intel Core i7,15.6,4800,Black,acer,55813,1024
+Lenovo Loq 15Irx9,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i7,15.6,4800,Grey,lenovo,41849,512
+Asus Zenbook Duo Ux8406Ca Pz208W,1,Intel Arc Graphics,Windows 11 Home,32,Intel Core Ultra 9,14,7467,Grey,asus,121499,2048
+Hp 250 G10,1.5,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,15.6,3200,Grey,hp,27741,512
+Lenovo Thinkpad E14 Gen5,1.5,Shared,Windows 11 Pro,40,Intel Core i5,14,3200,Black,lenovo,36218,512
+Casper Excalibur G911 1390,3,Nvidia GeForce RTX 4090,FreeDos,64,Intel Core i9,16,4800,Grey,casper,120599,2048
+Hp 15S Eq2000Nt,1.5,AMD Radeon Graphics,Windows 11 Pro,32,AMD Ryzen 7,15.6,3200,Silver,hp,21499,1024
+Casper Nirvana S100 300Nit,1,Intel Graphics,FreeDos,16,Intel Core i7,16,5600,Titanium Grey,casper,25399,1024
+Lenovo Thinkpad E14 G6,1,Intel Graphics,Windows 11 Home,16,Intel Core Ultra 7,14,5600,Black,lenovo,43673,512
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,15.6,3200,Black,lenovo,18999,512
+Casper Nirvana X600 1342,1,Shared,FreeDos,16,13420H,15.6,3200,Blue,casper,20399,1024
+Dell Inspiron 3520,3,Shared,FreeDos,16,Intel Core i5,15.6,2666,"Dark Gray, Black",dell,17499,512
+Hp 15 Fc0000Nt,3,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 5,15.6,5500,Black,hp,13899,512
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,8,12500H,15.6,3200,Dark Grey,asus,29499,512
+Msi Katana 15 B13Vgk,3,Nvidia GeForce RTX 4070,Windows 11 Pro,48,Intel Core i7,15.6,5200,Black,msi,75999,1024
+Lenovo Yoga 7,1.5,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i7,16,5200,"Grey, Black",lenovo,75999,1024
+Dell Inspiron 3520,1.5,Intel UHD Graphics,Windows 11 Pro,40,Intel Core i7,15.6,3200,Black,dell,35328,512
+Hp 255 G9,1.5,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 5,15.6,3200,Silver,hp,16799,512
+Asus Expertbook P1 P1503,1,Intel UHD Graphics,FreeDos,24,Intel Core i7,15.6,5600,Metallic Grey,asus,36259,512
+Asus Expertbook P1 P1403Cva,1,Intel UHD Graphics,FreeDos,16,Intel Core i5,14,5600,Metallic Grey,asus,26383,512
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,8,Intel Core i5,15.6,3200,Black,monster,36399,500
+Msi Katana 17,1.5,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,17.3,5200,Black,msi,71343,1024
+Acer Extensa 15,1.5,Intel UHD Graphics,FreeDos,8,Intel Core i5,15.6,3200,"Grey, Black",acer,15399,512
+Asus Vivobook X1502Za Ej1070,1.5,Shared,Windows 11 Pro,24,Intel Core i5,15.6,3200,Navy Blue,asus,21999,1024
+Dell Inspiron 3520,1.5,Intel UHD Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Black,dell,25499,512
+Lenovo Thinkpad E14 Gen,1.5,AMD Radeon Vega 7,Windows 11 Pro,16,AMD Ryzen 5,14,3200,Black,lenovo,27000,1024
+Dell Latitude 3550,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i5,15.6,5600,"Dark Gray, Black",dell,35299,1024
+Monster Tulpar T5 V23,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,64,Intel Core i7,15.6,3200,Black,monster,56799,1024
+Monster Huma H4 V6,1.5,Intel Arc Graphics,FreeDos,16,Core Ultra 7,14,5600,Silver,monster,45999,500
+Msi Cyborg 15,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i5,15.6,5200,Black,msi,48748,1024
+Hp Victus 16 S0001Nta26,3,Nvidia GeForce RTX 4070,Windows 11 Pro,32,AMD Ryzen 7,16.1,4800,Dark Grey,hp,75441,2048
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,Windows 11 Pro,40,Intel Core i7,15.6,3200,Black,lenovo,30085,1024
+Dell Vostro 3530,1,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,15.6,2666,Grey,dell,27943,1024
+Lenovo Ideapad 1 82V700A9Tx01,1,Shared,Windows 11 Home,4,Intel Celeron,15.6,2400,Black,lenovo,11902,256
+Lenovo V15 82Tt008Ptx,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,21699,512
+Asus Expertbook B5,1,Intel Arc Graphics,FreeDos,40,Intel Core i5,16,4800,Grey,asus,48770,1024
+Msi Modern 15,1,Intel Iris Xe Graphics,FreeDos,64,Intel Core i7,15.6,3200,Dark Grey,msi,35617,512
+Dell Inspiron 3520,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,dell,24989,1024
+Hp Victus 16 S1002Nt,3,Nvidia GeForce RTX 4070,FreeDos,32,AMD Ryzen 7,16.1,5600,Black,hp,63999,1024
+Dell Vostro 3520,1.5,Intel Iris Xe Graphics,Linux,8,Intel Core i3,15.6,2666,Black,dell,12395,512
+Msi Sword 17 Hx,3,Nvidia GeForce RTX 4070,Windows 11 Home,96,Intel Core i9,17,5600,Black,msi,124753,1024
+Msi Cyborg 15,1.5,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,15.6,5200,Black,msi,60661,512
+Casper Nirvana S100 300Nit,1,Intel Graphics,FreeDos,16,Intel Core i7,16,5600,Titanium Grey,casper,23499,250
+Lenovo Thinkpad E14 Gen,1.5,AMD Radeon Vega 7,Windows 11 Pro,40,AMD Ryzen 5,14,3200,Black,lenovo,29500,512
+Lenovo Ideapad,1.5,Shared,FreeDos,16,AMD Ryzen 7,15.6,3200,Grey,lenovo,19921,1024
+Dell Vostro 3520,1.5,Shared,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,dell,19999,512
+Asus Vivobook,1,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i5,16,3200,Black,asus,54124,1024
+Dell Vostro 3520 N1611Pvnb3520U04,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,15.6,3200,Dark Grey,dell,21599,1024
+Msi Modern 15,1,Intel Iris Xe Graphics,Windows 11 Pro,64,Intel Core i7,15.6,3200,Dark Grey,msi,42183,1024
+Lenovo Thinkpad E14 Gen,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,14,3200,Black,lenovo,36499,256
+Msi Katana 17,1.5,Nvidia GeForce RTX 4060,Windows 11 Pro,64,Intel Core i7,17.3,5200,Black,msi,83985,1024
+Hp 250 G9,1,Shared,Windows 11 Pro,8,Intel Core i5,15.6,3200,Grey,hp,18799,512
+Lenovo Ideapad 3 17Iau7,3,Shared,FreeDos,40,Intel Core i5,17.3,3200,Grey,lenovo,29999,512
+Hp 14S Fq1000Nt,1.5,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 7,14,3200,Black,hp,19448,512
+Monster Tulpar T6 V3,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,16,4800,Black,monster,61799,1024
+Asus Expertbook B1,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Black,asus,24149,512
+Dell Latitude 3540,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,dell,26155,512
+Msi Prestige 16 Ai,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core Ultra 7,16,4800,Black,msi,91775,1024
+Lenovo Ideapad 1 15Alc7,1.5,AMD Radeon Graphics,Windows 11 Home,24,AMD Ryzen 7,15.6,3200,Grey,lenovo,20999,1024
+Lenovo Ideapad 3,1.5,Intel Iris Graphics,FreeDos,8,Intel Core i5,15.6,3200,Grey,lenovo,18989,512
+Asus Vivobook 15 X1504Va,1,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,3200,Silver,asus,19799,1024
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,16,12500H,15.6,3200,Dark Grey,asus,32599,1024
+Lenovo Ideapad 3 15Iau7,1.5,Intel UHD Graphics,FreeDos,4,Intel Core i3,15.6,3200,Grey,lenovo,13930,512
+Asus Expertbook P1 P1503,1,Intel UHD Graphics,Windows 11 Pro,32,Intel Core i7,15.6,5600,Metallic Grey,asus,42139,1024
+Monster Huma H5 V4,1.5,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,15.6,3200,Black,monster,33599,1024
+Hp 255 G9,1,Shared,FreeDos,16,AMD Ryzen 5,15.6,3200,Grey,hp,15563,512
+Asus Zenbook 14 Ux3405Ma,1.5,Intel Arc Graphics,Windows 11 Home,16,Intel Core Ultra 7,14,5800,Grey,asus,57299,1024
+Asus Expertbook B3 Flip,1.5,Intel UHD Graphics,Windows 11 Pro,24,Intel Core i5,14,3200,Black,asus,30749,512
+Asus Expertbook P1 P1503,1,Intel UHD Graphics,FreeDos,16,Intel Core i7,15.6,5600,Metallic Grey,asus,34103,512
+Hp 250 G9,1.5,Intel UHD Graphics,Windows 11 Pro,24,Intel Core i5,15.6,3200,Grey,hp,20473,512
+Lenovo Ideapad Slim 3 83Er000Wtr03,1.5,Intel UHD Graphics,Windows 11 Pro,8,Intel Core i5,15.6,4800,Grey,lenovo,18999,512
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,64,Intel Core i7,17.3,3200,Black,monster,72448,1024
+Lenovo Thinkpad E14 Gen,1.5,Nvidia GeForce MX550,FreeDos,40,Intel Core i7,14,3200,Black,lenovo,49372,1024
+Dell Latitude 3550,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,5600,Black,dell,51409,2048
+Lenovo V15,1.5,AMD Radeon Graphics,Windows 10 Pro,24,AMD Ryzen 7,15.6,3200,Black,lenovo,23630,256
+Lenovo Loq,3,Nvidia GeForce RTX 4070,FreeDos,24,AMD Ryzen 7,15.6,4800,Grey,lenovo,64999,1024
+Msi Nb Sword 16 Hx,3,Nvidia GeForce RTX 4070,Windows 11 Home,64,Intel Core i7,16,5600,Metallic Black,msi,103879,4096
+Acer Nitro An16 41,3,Nvidia GeForce RTX 4050,Windows 11 Home,16,Ryzen 5,16,4800,Black,acer,39690,512
+Dell Inspiron 3520,1.5,Intel UHD Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Black,dell,29999,1024
+Acer Nitro V15 Nh,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,13420H,15.6,4800,Black,acer,30199,512
+Msi Sword 17 Hx,3,Nvidia GeForce RTX 4070,FreeDos,32,Intel Core i7,17,5600,Grey,msi,83697,1024
+Acer Nitro 5 Anv15,5,Nvidia GeForce RTX 3050,Windows 11 Pro,16,Intel Core i5,15.6,5600,Black,acer,32499,512
+Monster Tulpar T6 V3,3,Nvidia GeForce RTX 4070,Windows 11 Home,32,Intel Core i7,16,4800,Black,monster,70999,1024
+Lenovo Loq 15Irx9,3,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i7,15.6,4800,Grey,lenovo,67999,1024
+Asus Vivobook 15 X1504Va,1.5,Intel UHD Graphics,FreeDos,8,Intel Core i5,15.6,3200,Silver,asus,17999,512
+Dell Latitude 5440 13,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,14,3200,"Dark Grey, Black",dell,61837,512
+Hp 255 G9,1.5,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 5,15.6,3200,"Grey, Silver",hp,16699,512
+Monster Tulpar T5 V23,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,15.6,3200,Black,monster,51799,1024
+Msi Cyborg 15,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,15.6,5200,Black,msi,52663,256
+Dell Vostro 3530,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,15.6,3200,Black,dell,19330,1024
+Msi Thin 15,3,Nvidia GeForce RTX 3050,Windows 11 Home,36,Intel Core i5,15.6,3200,Grey,msi,39845,1024
+Asus Tuf Gaming A15 Fa507Nvra6,3,Nvidia GeForce RTX 4060,Windows 10 Pro,16,AMD Ryzen 7,15.6,4800,Black,asus,57852,1024
+Asus Zenbook S 14 Oled,1.5,Intel Arc Graphics,Windows 11 Home,32,Intel Core Ultra 7,14,4800,Grey,asus,73599,1024
+Dell Latitude 3440 N085L344014U02,1,Intel UHD Graphics,FreeDos,16,Intel Core i5,14,3200,Grey,dell,25857,512
+Dell Xps 13 9340,1.5,Intel Arc Graphics,Windows 11 Pro,16,Intel Core Ultra 7,13.3,6400,Grey,dell,72922,1024
+Lenovo Loq 15Irh8,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,15.6,5200,"Dark Gray, Black",lenovo,68225,512
+Hp Probook 450 G10,1,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Silver,hp,31599,512
+Hp Probook 440 G11,1.5,Nvidia GeForce RTX 2050,Windows 11 Pro,64,Intel Core Ultra 7,14,5600,Silver,hp,73891,1024
+Monster Tulpar T6 V3,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,16,4800,Black,monster,49999,500
+Lenovo Thinkpad E16,1,Intel Arc Graphics,FreeDos,64,Intel Core Ultra 7,16,5600,Black,lenovo,55399,1024
+Msi Modern 15 B12Mo,3,Intel Iris Xe Graphics,FreeDos,16,1235U,15.6,3200,Black,msi,19099,512
+Lenovo Yoga 9,3,Intel Arc Graphics,Windows 11 Home,32,Intel Core Ultra 7,14,7467,Blue,lenovo,110000,1024
+Asus Vivobook 15,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i7,15.6,3200,Metallic Grey,asus,32507,1024
+Lenovo Loq,3,Nvidia GeForce RTX 4050,Windows 11 Pro,24,Intel Core i5,15.6,4800,Grey,lenovo,43964,1024
+Acer Nitro Anv15 51,3,Nvidia GeForce RTX 3050,Windows 11 Home,8,Intel Core i5,15.6,4800,Black,acer,30550,512
+Dell Latitude 3520 N028L352025Emea,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Black,dell,27499,512
+Casper Nirvana X600 1235,1,Shared,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,19499,512
+Lenovo Ideapad 1,1.5,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 7,15.6,3200,Grey,lenovo,16463,512
+Dell Vostro 3530,1.5,Intel UHD Graphics,Ubuntu,16,Intel Core i7,15.6,3200,Black,dell,23445,512
+Dell Inspiron 15 3511,1.5,Intel Iris Xe Graphics,Windows 10 Pro,16,Intel Core i5,15.6,2666,Black,dell,19399,512
+Asus Vivobook 15,1.5,Intel Iris Xe Graphics,Windows 11 Pro,24,Intel Core i7,15.6,3200,Metallic Grey,asus,28399,1024
+Lenovo Loq 15Arp9,3,Nvidia GeForce RTX 3050,FreeDos,8,AMD Ryzen 5,15.6,4800,Grey,lenovo,29120,512
+Hp Probook 450 G10,1.5,Nvidia GeForce RTX 2050,Windows 11 Pro,32,Intel Core i7,15.6,3200,Silver,hp,63209,1024
+Dell Vostro 3530,1,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,dell,20183,512
+Dell Vostro 3520 N5305Pvnb3520U,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,3200,Dark Grey,dell,26263,512
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,48,Intel Core i5,16,3200,Black,asus,44999,1024
+Lenovo V15 G4,1.5,Intel Iris Xe Graphics,Windows 11 Pro,24,Intel Core i7,15.6,3200,Black,lenovo,30999,512
+Lenovo Thinkpad E16 Gen1,3,Intel UHD Graphics,FreeDos,16,Intel Core i7,16,3200,Black,lenovo,43500,512
+Lenovo Thinkpad E16 Gen,1,Intel Graphics,Windows 11 Pro,16,Intel Core Ultra 5,16,5600,Black,lenovo,38850,512
+Monster Abra A7 V16,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,17.3,4800,Black,monster,53599,1024
+Hp 15S Eq2000Nta60,1,Shared,FreeDos,32,AMD Ryzen 7,15.6,3200,Silver,hp,18499,512
+Lenovo V15 G4,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,3200,Black,lenovo,23999,512
+Casper Nirvana X600 1270,1.5,Shared,Windows 11 Pro,16,Intel Core i7,15.6,3200,Grey,casper,23899,512
+Asus Vivobook 15,1.5,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i7,15.6,3200,Metallic Grey,asus,26249,512
+Lenovo Thinkpad E16 Gen1,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,16,3200,Black,lenovo,37000,1024
+Dell Latitude 3550 N010L355015U12,1.5,Intel Iris Xe Graphics,Windows 11 Pro,64,Intel Core i7,15.6,5600,Dark Grey,dell,52299,1024
+Hp 15 Fd1002Nt,1,Intel Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,hp,39399,1024
+Acer Nitro V 15,3,Nvidia GeForce RTX 4060,Windows 11 Home,96,AMD Ryzen 7,15.6,4800,Black,acer,64741,2048
+Dell Vostro 3420 4330Pvnb3420U,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,14,3200,Dark Grey,dell,49850,512
+Asus Expertbook P1 P1403Cva,1,Intel UHD Graphics,FreeDos,8,Intel Core i5,14,5600,Metallic Grey,asus,24831,256
+Msi Cyborg 15 A13Vfa36,1,Nvidia GeForce RTX 4060,Windows 11 Pro,64,Intel Core i7,15.6,4800,Black,msi,66142,2048
+Msi Stealth 16 Ai,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core Ultra 7,16,5600,Black,msi,106382,1024
+Asus Vivobook 15 E1504Fa,1.5,AMD Radeon Graphics,FreeDos,8,AMD Ryzen 5,15.6,4800,Grey,asus,15999,512
+Asus Expertbook P1 P1503,1,Intel UHD Graphics,Windows 11 Pro,64,Intel Core i7,15.6,5600,Metallic Grey,asus,48019,1024
+Asus Vivobook 16X K3605Zf,1.5,Nvidia GeForce RTX 2050,Windows 11 Home,8,Intel Core i5,16,3200,Black,asus,28115,512
+Hp Victus 15 Fa1057Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,3200,"Dark Gray, Black",hp,50447,512
+Dell Gaming G15 5530,3,Nvidia GeForce RTX 4060,Windows 11 Pro,64,Intel Core i7,15.6,4800,Black,dell,67500,2048
+Lenovo Thinkpad E16 Gen1,1.5,AMD Radeon Graphics,Windows 11 Pro,40,AMD Ryzen 7,16,3200,Metallic Black,lenovo,44295,2048
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,41299,512
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,15.6,3200,Black,lenovo,19999,1024
+Lenovo Ideapad,1.5,Shared,Windows 11 Home,40,AMD Ryzen 7,15.6,3200,Grey,lenovo,23949,1024
+Dell Latitude 3550,1,Intel UHD Graphics,Windows 11 Pro,64,Intel Core Ultra 7,15.6,5600,Metallic Black,dell,62915,1024
+Lenovo Loq,3,Nvidia GeForce RTX 4050,Windows 11 Home,32,AMD Ryzen 7,15.6,4800,Metallic Grey,lenovo,49324,1024
+Lenovo V15 G4,1.5,Intel UHD Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,lenovo,23499,512
+Msi Katana 17,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,17.3,5200,Black,msi,81306,2048
+Dell Inspiron 3520,1.5,Intel Iris Xe Graphics,Linux,16,Intel Core i7,15.6,3200,Grey,dell,23299,512
+Lenovo V15 G4,3,AMD Radeon Graphics,Windows 11 Home,24,AMD Ryzen 7,15.6,3200,Black,lenovo,23152,1024
+Asus Expertbook B5 B5602Cbn,1,Intel Arc Graphics,FreeDos,16,Intel Core i7,16,4800,Black,asus,48999,512
+Hp Probook 440 G10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,14.1,4800,Silver,hp,36900,512
+Lenovo Yoga Pro 7,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core Ultra 7,14.5,7467,Grey,lenovo,63999,1024
+Asus 14 Dokunmatik,1.5,Intel Iris Pro Graphics,FreeDos,8,1280P,15.6,3200,Black,asus,57383,250
+Lenovo V15 G3,1,AMD Radeon Graphics,Windows 11 Pro,8,AMD Ryzen 7,15.6,3200,Black,lenovo,19499,256
+Hp Elitebook 840 G10,1.5,Intel UHD Graphics,Windows 11 Pro,96,Intel Core i7,14,5200,Metallic Grey,hp,85312,4096
+Hp 250 G9,1,Intel Iris Xe Graphics,Windows 11 Home,32,Intel Core i5,15.6,3200,Grey,hp,28419,1024
+Lenovo Thinkbook 14,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,14,5200,Grey,lenovo,31999,512
+Msi Thin 15 B12Ucx,1,Nvidia GeForce RTX 2050,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,msi,29999,512
+Lenovo V15 G3,1,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 7,15.6,3200,Black,lenovo,22399,1024
+Dell Inspiron 3520,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,dell,25699,512
+Lenovo X1 Carbon,1.5,Shared,FreeDos,16,Intel Core i7,14,6400,Black,lenovo,86911,240
+Lenovo Ideapad 3 17Iau7,3,Intel Iris Xe Graphics,FreeDos,40,Intel Core i5,17.3,3200,Grey,lenovo,35099,1024
+Casper Nirvana S100 300Nit,1,Intel Graphics,Windows 11 Pro,16,Intel Core i7,16,5600,Titanium Grey,casper,32399,1024
+Lenovo Thinkbook 14 G6,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,14,5200,Metallic Grey,lenovo,46647,1024
+Msi Sword 17 Hx,3,Nvidia GeForce RTX 4070,Windows 11 Home,48,Intel Core i9,17,5600,Black,msi,118383,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,42297,1024
+Lenovo Thinkpad E14 Gen,1.5,Shared,FreeDos,40,Intel Core i5,14,3200,Black,lenovo,39090,2048
+Msi Cyborg 15,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i5,15.6,5200,Metallic Black,msi,49979,1024
+Acer Nitro V 15 Anv15,3,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i7,15.6,5600,Black,acer,56999,2048
+Lenovo V15 G3,1.5,Shared,FreeDos,16,Intel Core i5,15.6,3200,Black,lenovo,19799,512
+Casper Nirvana X600 1270,1.5,Shared,FreeDos,16,Intel Core i7,15.6,3200,Grey,casper,21999,256
+Casper Nirvana S100 300Nit,1,Intel Graphics,Windows 11 Home,32,Intel Core i7,16,5600,Titanium Grey,casper,35499,2048
+Asus Expertbook P1 ,1,Intel UHD Graphics,FreeDos,8,Intel Core i5,15.6,5200,Silver,asus,20090,512
+Dell Inspiron 15 3520,1.5,Intel UHD Graphics,Ubuntu,8,Intel Core i5,15.6,2666,Black,dell,14378,256
+Lenovo Yoga 7,1.5,Intel HD Graphics,Windows 11 Home,16,Intel Core Ultra 5,14,7467,Blue,lenovo,47997,512
+Lenovo Ideapad 1,1.5,Onboard,FreeDos,8,AMD Ryzen 3,15.6,5500,Grey,lenovo,27202,256
+Lenovo Thinkbook 2 In,1,Intel Graphics,FreeDos,32,Core Ultra 7,14,5600,Grey,lenovo,48019,1024
+Msi Thin 15,3,Nvidia GeForce RTX 3050,Windows 11 Pro,64,Intel Core i7,15.6,3200,Grey,msi,52726,1024
+Lenovo Ideapad 1 82V700A9Tx02,1,Shared,Windows 11 Home,4,Intel Celeron,15.6,2400,Black,lenovo,12474,512
+Lenovo V15 Gen2,1.5,Shared,Windows 11 Pro,16,Intel Core i7,15.6,3200,"Dark Grey, Black",lenovo,27500,512
+Asus Rog Strix G16,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,16,4800,Grey,asus,77710,1024
+Asus Rog Strix G18 G815Lw,3,Nvidia GeForce RTX 5080,FreeDos,32,Intel Core Ultra 9,18,5600,Black,asus,172999,1024
+Hp Victus Gaming,3,Nvidia GeForce RTX 4060,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,hp,49999,1024
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,3200,Black,monster,44099,1024
+Lenovo Ideapad 3 17Alc6,3,AMD Radeon Graphics,FreeDos,12,AMD Ryzen 7,17.3,2400,Grey,lenovo,24999,512
+Msi Summit E16 Ai,3,Intel Arc Graphics,Windows 11 Pro,32,Intel Core Ultra 7,16,6400,Black,msi,129059,1024
+Asus B3402Fba I58511,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,14,3200,Dark Blue,asus,29889,256
+Lenovo Yoga 6,1.5,AMD Radeon Graphics,Windows 11 Home,16,AMD Ryzen 7,13.3,4266,Blue,lenovo,40375,256
+Hp 250 G10,1.5,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,15.6,3200,Grey,hp,32009,2048
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,38199,512
+Lenovo V14 Gen4,1.5,Intel UHD Graphics,Windows 11 Home,24,Intel Core i5,14,3200,Black,lenovo,27439,256
+Dell Vostro 3530,1.5,Intel Iris Xe Graphics,Linux,8,Intel Core i5,15.6,2666,Black,dell,17999,512
+Dell Inspiron 3520 I7,1.5,Intel Iris Xe Graphics,Linux,8,Intel Core i7,15.6,3200,Black,dell,21983,512
+Asus Expertbook P1 P1503,1,Intel Iris Xe Graphics,FreeDos,32,Intel Core i5,15.6,5600,Metallic Grey,asus,30379,512
+Msi Modern 14,1.5,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i7,14,3200,Black,msi,39689,2048
+Lenovo Thinkbook 14 Gen6,1,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,14,4800,Grey,lenovo,46647,1024
+Msi Creator Z17 Hx,3,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i7,17,5600,"Black, Grey",msi,125999,1024
+Lenovo V15 G4,1.5,Intel Iris Xe Graphics,Windows 11 Home,24,Intel Core i7,15.6,3200,Black,lenovo,29299,1024
+Lenovo Thinkpad E14,1,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,14,3200,Black,lenovo,29501,512
+Monster Huma H4 V5,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,14.1,3200,Silver,monster,27399,500
+Asus Expertbook P1 P1503,1,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i5,15.6,5600,Metallic Grey,asus,30379,512
+Hp 250 G10,1,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Grey,hp,20999,512
+Msi Cyborg 15 A13Vea7,1,Nvidia GeForce RTX 4050,Windows 10 Pro,32,Intel Core i7,15.6,4800,Black,msi,57236,1024
+Dell Vostro 3530,1,Intel Iris Xe Graphics,FreeDos,32,Intel Core i7,15.6,2666,Grey,dell,25360,512
+Hp 14 Ep0013Nt,1.5,Intel UHD Graphics,FreeDos,8,Intel Core i3,14,3200,White,hp,12675,512
+Lenovo Loq,1,Nvidia GeForce RTX 3050,Windows 11 Home,32,Intel Core i5,15.6,4800,Grey,lenovo,40513,1024
+Lenovo Yoga 7I 16Iml92,1,Shared,Windows 11 Home,16,Intel Core Ultra 5,16,7467,Grey,lenovo,35035,512
+Msi Raider 18 Hx,3,Nvidia GeForce RTX 5080,Windows 11 Home,64,Intel Core Ultra 9,18,6400,Black,msi,232699,4096
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,Windows 11 Home,32,Intel Core i5,15.6,3200,Grey,asus,36999,1024
+Lenovo V15,1.5,AMD Radeon Graphics,Windows 10 Home,16,AMD Ryzen 7,15.6,3200,Black,lenovo,24157,256
+Lenovo Thinkpad E14 Gen,1.5,Nvidia GeForce MX550,Windows 11 Pro,24,Intel Core i7,14,3200,Black,lenovo,54610,1024
+Lenovo Loq 15Arp9,3,Nvidia GeForce RTX 4050,Windows 11 Pro,32,AMD Ryzen 7,15.6,4800,Grey,lenovo,44504,512
+Dell Latitude 3440,1.5,Intel Iris Xe Graphics,Windows 11 Pro,8,Intel Core i5,14,3200,Black,dell,31149,512
+Lenovo Thinkpad E14 Gen,1.5,AMD Radeon Vega 7,Windows 11 Pro,16,AMD Ryzen 5,14,3200,Black,lenovo,27000,512
+Icotech Ds13 Plus,1.5,Intel UHD Graphics 600,FreeDos,16,Intel Celeron,13.5,3200,Grey,icotech,28249,512
+Acer Aspire 5 13,1.5,Nvidia GeForce RTX 2050,Windows 11 Home,8,Intel Core i5,14,2800,Black,acer,25499,512
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i5,15.6,3200,Black,monster,44799,1024
+Lenovo V15 G4,1.5,Shared,Windows 11 Pro,8,AMD Ryzen 5,15.6,4800,Black,lenovo,14329,256
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,48,Intel Core i5,16,3200,Black,asus,48499,2048
+Lenovo V15 G3,1.5,Intel Iris Xe Graphics,FreeDos,8,Intel Core i5,15.6,3200,Black,lenovo,17699,256
+Lenovo Thinkpad E16 Gen1,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,16,3200,Grey,lenovo,48999,512
+Asus Expertbook B1 B1503Cva,1,Intel Iris Xe Graphics,Windows 11 Home,32,Intel Core i7,15.6,5600,"Dark Gray, Black",asus,37827,512
+Asus Rog Strix G18,3,Nvidia GeForce RTX 4080,FreeDos,96,Intel Core i9,18,4800,Dark Grey,asus,196620,2048
+Msi Modern 14 C12Mo,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,1255U,14,3200,Black,msi,26644,1024
+Lenovo V15 G4,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,lenovo,31999,2048
+Lenovo V15 Gen2,1.5,Nvidia GeForce MX350,FreeDos,8,Intel Core i5,15.6,3200,Black,lenovo,38404,512
+Lenovo V15 Gen,3,Shared,Windows 11 Pro,24,Intel Core i7,15.6,3200,Black,lenovo,32299,1024
+Hp 250 G10,1.5,Intel Iris Xe Graphics,Windows 11 Home,16,Intel Core i5,15.6,3200,Metallic Grey,hp,29999,1024
+Hp 250 G9,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i5,15.6,3200,Grey,hp,19749,512
+Msi Thin 15 B12Ve,1.5,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Dark Grey,msi,35918,512
+Lenovo Thinkpad E14 21Jk0005Tx,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i5,14,3200,Black,lenovo,28775,512
+Razer Blade 18,3,Nvidia GeForce RTX 4070,Windows 11 Home,32,Intel Core i9,18,5600,Black,razer,89999,1024
+Hp 255 G9,1.5,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 5,15.6,3200,Black,hp,16599,512
+Lenovo V15,1.5,Intel Iris Xe Graphics,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,lenovo,26500,1024
+Lenovo V14 Gen4,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i5,14,3200,Black,lenovo,24205,256
+Asus Expertbook B1 B1502Cba,1.5,Intel Iris Xe Graphics,FreeDos,24,Intel Core i7,15.6,3200,Black,asus,24899,512
+Lenovo Thinkpad X1 Carbon,1,Intel Arc Graphics,Windows 11 Pro,32,Intel Core Ultra 5,14,7467,Black,lenovo,89000,512
+Lenovo Thinkpad E14 Gen,1.5,Shared,Windows 11 Pro,16,Intel Core i5,14,3200,Black,lenovo,30500,512
+Lenovo Ideapad Slim 3,1.5,Shared,FreeDos,8,Intel Core i5,15.6,4800,Grey,lenovo,18999,1024
+Lenovo Thinkpad E14 Gen5,1.5,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,14,3200,Metallic Black,lenovo,43609,1024
+Acer Nitro V15 Anv15,3,Nvidia GeForce RTX 4060,Windows 11 Pro,16,AMD Ryzen 7,15.6,4800,Black,acer,43119,512
+Lenovo Thinkpad E14 Gen,1.5,Nvidia GeForce MX550,FreeDos,16,Intel Core i7,14,3200,Black,lenovo,47044,1024
+Dell Latitude 3550,1,Intel Iris Xe Graphics,Ubuntu,32,Intel Core i7,15.6,5600,Black,dell,38432,512
+Dell Latitude 3550,1,Intel Iris Xe Graphics,FreeDos,16,Intel Core i7,15.6,5600,Black,dell,39905,1024
+Asus X515Ea Ej1229,1,Intel Iris Xe Graphics,FreeDos,8,Intel Core i5,15.6,3200,Grey,asus,18940,256
+Msi Cyborg 14 A13Ve,1.5,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,14,5200,Black,msi,47416,512
+Lenovo V15 G4,1.5,Intel Iris Xe Graphics,FreeDos,40,Intel Core i7,15.6,3200,Black,lenovo,29499,1024
+Msi Cyborg 15 A13Vfa12,1,Nvidia GeForce RTX 4060,Windows 11 Home,64,Intel Core i7,15.6,4800,Black,msi,62970,1024
+Msi Cyborg 15 A13Vfa75,1,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i7,15.6,4800,Black,msi,58076,512
+Casper Nirvana S100 300Nit,1,Intel Graphics,Windows 11 Home,16,Intel Core i5,16,5600,Titanium Grey,casper,26999,1024
+Huawei Matebook D,1,Intel UHD Graphics,Windows 10 Home,8,Intel Core i5,14,2400,Grey,huawei,22999,256
+Asus Tuf Gaming A15 Fa507Nura15,3,Nvidia GeForce RTX 4050,FreeDos,64,AMD Ryzen 7,15.6,4800,Black,asus,51026,1024
+Asus Vivobook S 14 Flip,1.5,Intel UHD Graphics,Windows 11 Home,8,Intel Core i5,14,3200,Silver,asus,33490,512
+Asus Zenbook Duo Ux8406Ca Pz101W,1,Intel Arc Graphics,Windows 11 Home,32,Intel Core Ultra 7,14,7467,Grey,asus,88499,1024
+Msi Katana 17 B12Vfk,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i5,17.3,4800,Black,msi,64376,1024
+Hp 14 Ep0014Nt,1.5,Intel UHD Graphics,FreeDos,8,Intel Core i3,14,3200,Navy Blue,hp,12649,512
+Lenovo Yoga Pro 7 14Imh9,1.5,Intel Arc Graphics,FreeDos,32,Intel Core Ultra 9,14.5,7467,Dark Blue,lenovo,69999,1024
+Asus Vivobook 15,1.5,Intel UHD Graphics,FreeDos,16,Intel Core i5,15.6,3200,Silver,asus,21099,1024
+Acer Nitro V15 Anv15,3,Nvidia GeForce RTX 4060,FreeDos,32,AMD Ryzen 7,15.6,4800,Black,acer,45079,1024
+Dell Latitude 3450,1.5,Intel Iris Xe Graphics,Windows 11 Pro,64,Intel Core i7,14,5600,Metallic Black,dell,57525,1024
+Lenovo Loq 15Irx9,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i7,15.6,4800,Metallic Grey,lenovo,55369,512
+Lenovo Thinkbook 16Pg5 Irx,3,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i9,16,5600,Grey,lenovo,107093,2048
+Lenovo Ideapad Slim 3,1,Intel UHD Graphics,Windows 11 Pro,8,Intel Core i5,14,4800,Grey,lenovo,22499,1024
+Lenovo Thinkbook G6,1.5,AMD Radeon Graphics,Windows 11 Pro,64,AMD Ryzen 7,16,3200,Grey,lenovo,35799,1024
+Dell Inspiron 3520,1.5,Intel UHD Graphics,Windows 11 Home,32,Intel Core i7,15.6,3200,Black,dell,30699,1024
+Msi Thin 15,3,Nvidia GeForce RTX 3050,Windows 11 Home,32,Intel Core i5,15.6,3200,Grey,msi,39845,1024
+Lenovo Yoga 6,1,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 7,13.3,4266,Dark Blue,lenovo,41579,1024
+Hp 250 G10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i5,15.6,3200,Grey,hp,25099,512
+Lenovo V15 G2,1.5,Shared,FreeDos,8,AMD Ryzen 3,15.6,3200,Black,lenovo,12999,256
+Casper Nirvana X700 1362,1,Shared,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,casper,37899,2048
+Hp Victus 16 R0006Nt,3,Nvidia GeForce RTX 4070,FreeDos,16,Intel Core i7,16.1,5200,Grey,hp,55399,1024
+Hp 250 G10,1.5,Intel Iris Xe Graphics,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,hp,30070,1024
+Casper Nirvana X600 1270,1.5,Shared,Windows 11 Home,32,Intel Core i7,15.6,3200,Grey,casper,27999,1024
+Lenovo Yoga 6,1.5,AMD Radeon Graphics,Windows 11 Pro,16,AMD Ryzen 7,13.3,4266,Dark Blue,lenovo,44431,1024
+Lenovo Loq 15Arp9,3,Nvidia GeForce RTX 4070,FreeDos,12,AMD Ryzen 7,15.6,4800,"Dark Gray, Black",lenovo,54999,1024
+Dell G16 7630,3,Nvidia GeForce RTX 4070,Windows 11 Home,64,Intel Core i9,16,4800,Black,dell,104493,4096
+Casper Excalibur G870,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,15.6,3200,Grey,casper,45167,1024
+Hp Victus Gaming 15 Fa1033Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Blue,hp,33999,512
+Hp Victus 16 S0051Nt,3,Nvidia GeForce RTX 4050,FreeDos,32,AMD Ryzen 7,16.1,5600,Black,hp,49999,1024
+Casper Excalibur G870,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,3200,Grey,casper,37999,1024
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,8,Intel Core i5,15.6,3200,Grey,asus,29898,512
+Lenovo Ideapad Gaming 3 15Arh7,3.5,Nvidia GeForce RTX 2050,FreeDos,8,AMD Ryzen 5,15.6,4800,Dark Grey,lenovo,26999,512
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,17.3,3200,Black,monster,55977,1024
+Casper Excalibur G870 1265,3.5,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,15.6,3200,Grey,casper,40500,512
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,38999,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,37478,1024
+Hp Victus 16 R1021Nt,3,Nvidia GeForce RTX 4070,FreeDos,32,Intel Core i7,16.1,5600,Blue,hp,67799,1024
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,FreeDos,64,Intel Core i9,16,4800,Grey,casper,127799,2048
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,38499,512
+Msi Cyborg 15 A13Vf,1.5,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,5200,Black,msi,42697,512
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i7,15.6,3200,Black,casper,35076,1024
+Dell Gaming G15 5530,3,Nvidia GeForce RTX 4060,Ubuntu,16,Intel Core i7,15.6,4800,Black,dell,48599,1024
+Msi Thin 15 B12Uc,1.5,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Dark Grey,msi,27499,512
+Lenovo Loq,3,Nvidia GeForce RTX 4050,FreeDos,24,Intel Core i5,15.6,4800,Grey,lenovo,36899,512
+Msi Cyborg 15 A13Ve,1.5,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,5200,Black,msi,35499,512
+Hp Victus 15,3,AMD Radeon RX6550M,FreeDos,16,AMD Ryzen 5,15.6,3200,Silver,hp,24499,512
+Msi Thin 15 B12Uc,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i7,15.6,3200,Grey,msi,34699,512
+Lenovo Loq,3,Nvidia GeForce RTX 4050,FreeDos,24,AMD Ryzen 7,15.6,4800,Grey,lenovo,35999,512
+Hp Victus 15 Fa1085Nt,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,3200,Silver,hp,41999,1024
+Hp Victus 16 R1041Nt,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,16.1,5600,Blue,hp,53499,1024
+Msi Crosshair 17 Hx,3,Nvidia GeForce RTX 4070,Windows 11 Home,32,Intel Core i7,17,5600,Dark Grey,msi,105999,1024
+Hp Victus B10Fpea,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,3200,Silver,hp,38699,512
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,acer,27299,512
+Lenovo Loq,3,Nvidia GeForce RTX 3050,FreeDos,24,Intel Core i5,15.6,4800,Grey,lenovo,35999,512
+Hp Victus Gaming 16 R1012Nt,3,Nvidia GeForce RTX 4070,FreeDos,32,Intel Core i7,16.1,5600,"Dark Gray, Black",hp,69999,1024
+Erazer Deputy P60I,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,15.6,3200,Dark Grey,erazer,41408,1024
+Acer Nitro 16 An16,3,Nvidia GeForce RTX 4070,FreeDos,64,AMD Ryzen 7,16,5600,Black,acer,73499,1024
+Msi Sword 17 Hx,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,17,5600,Grey,msi,60941,1024
+Acer Nitro Anv15 51,3,Nvidia GeForce RTX 2050,Windows 11 Home,8,Intel Core i5,15.6,4800,Black,acer,25999,512
+Erazer Deputy P60,3,Nvidia GeForce RTX 4070,Windows 11 Home,16,Intel Core i7,15.6,3200,Dark Grey,erazer,50847,1024
+Asus Rog Strix G16 G614Ju,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,16,4800,Grey,asus,59599,512
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i5,16,3200,Black,asus,42900,1024
+Dell Gaming G15 5530,3,Nvidia GeForce RTX 4050,Ubuntu,16,Intel Core i7,15.6,4800,"Black, Grey",dell,43069,512
+Asus Tuf Gaming A15 Fa507Nv,3,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 5,15.6,4800,Black,asus,40999,512
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,16,3200,Black,asus,39799,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 2050,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,29999,1024
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i5,15.6,3200,Black,acer,30799,1024
+Acer Nitro V15 Nh,3,Nvidia GeForce RTX 3050,Windows 11 Home,32,13420H,15.6,4800,Black,acer,31499,512
+Msi Vector 16 Hx,3,Nvidia GeForce RTX 4080,Windows 11 Home,16,Intel Core i7,16,5600,Black,msi,133440,1024
+Hp Victus 16 R0029Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,16.1,5200,Grey,hp,45504,1024
+Hp Victus 16 R1064Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,16.1,5600,Black,hp,43702,512
+Asus Rog Strix G16 G614Jv,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,16,4800,Dark Grey,asus,72599,512
+Msi Vector 16 Hx,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,5200,Black,msi,168820,2048
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,17.3,3200,Black,monster,53599,500
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,42299,1024
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i7,15.6,3200,Grey,casper,49000,1024
+Hp Victus 16 S0022Nt,3,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 7,16.1,5600,Blue,hp,38999,512
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,acer,28561,1024
+Msi Thin Gf63 12Ucx,1.5,Nvidia GeForce RTX 2050,FreeDos,8,Intel Core i5,15.6,3200,Black,msi,28399,512
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4060,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,casper,48049,1024
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,acer,27099,256
+Lenovo Loq,3,Nvidia GeForce RTX 4070,FreeDos,24,AMD Ryzen 7,15.6,4800,Grey,lenovo,59999,512
+Acer Nitro Anv15 51,3,Nvidia GeForce RTX 3050,Windows 11 Home,8,Intel Core i5,15.6,4800,Black,acer,28999,512
+Monster Markut M7 V6,3,Nvidia GeForce RTX 5000,FreeDos,64,Intel Core i9,17.3,4000,Black,monster,345899,2048
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i5,15.6,3200,Black,monster,47299,1024
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,24,Intel Core i5,16,3200,Black,asus,42999,1024
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i7,17.3,3200,Black,monster,69298,1024
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,48,Intel Core i5,16,3200,Black,asus,44999,1024
+Msi Gf63 Thin,1.5,Nvidia GeForce GTX1650,FreeDos,8,Intel Core i5,15.6,3200,Black,msi,85000,512
+Msi Prestige 16 Ai,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core Ultra 7,16,4800,Black,msi,158695,2048
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4070,Windows 11 Home,32,Intel Core i7,15.6,3200,Grey,casper,61046,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,43299,2048
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,Windows 11 Home,32,Intel Core i9,16,4800,Grey,casper,140999,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 2050,FreeDos,64,Intel Core i5,15.6,3200,Grey,casper,33099,1024
+Msi Pulse 17 Ai,3,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core Ultra 7,17,5600,Black,msi,90846,1024
+Hp Omen,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Based,14,6600,Black,hp,73999,1024
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,Windows 11 Pro,64,Intel Core i7,15.6,3200,Black,casper,43889,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i5,15.6,3200,Grey,casper,49599,2048
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,casper,37299,1024
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,monster,44899,1024
+Acer Nitro 5 Nh,3,Nvidia GeForce RTX 3050,FreeDos,32,12450H,15.6,3200,Black,acer,28699,512
+Game Garaj Slayer2,3,Nvidia GeForce RTX 3060,FreeDos,64,Intel Core i7,15.6,4800,Black,game,45492,1024
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,Windows 11 Pro,32,Intel Core i7,15.6,3200,Black,casper,42523,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,Windows 11 Pro,64,Intel Core i5,15.6,3200,Grey,casper,56099,1024
+Acer Nitro V 15,3,Nvidia GeForce RTX 4050,FreeDos,64,Intel Core i5,15.6,5600,Black,acer,44999,2048
+Msi Creator M16 Hx,3,Nvidia GeForce RTX 4050,Windows 11 Pro,16,Intel Core i7,16,5600,Grey,msi,84244,1024
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,24,Intel Core i5,16,3200,Black,asus,43999,1024
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4070,FreeDos,16,Intel Core i7,15.6,3200,Grey,casper,49451,512
+Asus Rog Strix G16 G614Jv,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,16,4800,Grey,asus,68999,512
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4050,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,casper,52399,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,64,Intel Core i5,15.6,3200,Grey,casper,46399,2048
+Casper Excalibur G870 1362,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,15.6,3200,Grey,casper,48999,1024
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 3050,FreeDos,16,AMD Ryzen 5,15.6,4800,Black,acer,39999,512
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,48,Intel Core i5,16,3200,Black,asus,48999,2048
+Hp Victus 16 R0064Nt,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,16.1,5200,Black,hp,55899,1024
+Hp Omen 16 K0008Nt,3,Nvidia GeForce RTX 3070Ti,FreeDos,32,Intel Core i7,16.1,4800,Black,hp,63999,1024
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4070,Windows 11 Home,16,Intel Core i7,15.6,3200,Grey,casper,59009,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 2050,FreeDos,16,Intel Core i5,15.6,3200,Grey,casper,27499,512
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,17.3,3200,Black,monster,59499,1024
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,24,Intel Core i5,16,3200,Black,asus,47999,2048
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,16,3200,Black,asus,42499,1024
+Asus Rog Strix G16 G614Ju,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,16,4800,Grey,asus,58496,512
+Lenovo Ideapad Gaming 3,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,1740,Grey,lenovo,36622,512
+Casper Excalibur G870 1265,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,3200,Grey,casper,40798,512
+Lenovo V14 G2,1.5,Nvidia GeForce MX350,FreeDos,8,Intel Core i5,14,3200,Black,lenovo,60964,256
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,Windows 11 Pro,64,Intel Core i9,16,4800,Grey,casper,150199,2048
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,16,Intel Core i5,15.6,3200,Black,casper,39799,1024
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,4800,Grey,casper,128199,2048
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,4800,Grey,casper,125799,1024
+Erazer Deputy P60,3,Nvidia GeForce RTX 4070,FreeDos,16,Intel Core i7,15.6,3200,Dark Grey,erazer,49350,1024
+Game Garaj Slayer2,3,Nvidia GeForce RTX 3060,FreeDos,32,Intel Core i7,15.6,4800,Black,game,41950,1024
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,8,Intel Core i7,15.6,3200,Black,monster,42999,500
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,17.3,3200,Black,monster,62999,1024
+Game Garaj Slayer4,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core Ultra 7,16,4800,Black,game,65748,2048
+Game Garaj Slayer,3,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 5,15.6,4800,Black,game,37519,500
+Game Garaj Slayer2,3,Nvidia GeForce RTX 3060,FreeDos,64,Intel Core i7,17.3,4800,Black,game,49036,1024
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,64,Intel Core i7,15.6,3200,Black,monster,53199,1024
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 3050,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,acer,108477,512
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4070,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,casper,61046,1024
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,64,Intel Core i5,15.6,3200,Black,casper,44799,1024
+Casper Excalibur G870 1342,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i5,15.6,3200,Grey,casper,40361,512
+Monster Semruk S7 V9,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,17,4800,Black,monster,95999,1024
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,8,Intel Core i5,15.6,3200,Black,monster,38899,500
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,24,Intel Core i5,16,3200,Black,asus,47499,2048
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,20,Intel Core i5,16,3200,Black,asus,47499,2048
+Monster Semruk S7 V9,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,17,4800,Black,monster,103999,2048
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,monster,40199,500
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,15.6,3200,Grey,casper,46128,2048
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,Windows 11 Pro,32,Intel Core i5,15.6,3200,Black,casper,41499,1024
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4050,FreeDos,64,Intel Core i7,15.6,3200,Grey,casper,45299,1024
+Dell Gaming Alienware M16 R1,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,16,4800,Black,dell,74599,512
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,20,Intel Core i5,16,3200,Black,asus,46999,2048
+Casper Excalibur G911 1390,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,4800,Grey,casper,122099,4096
+Asus Tuf Gaming F15 Fx507Zc4,3,Nvidia GeForce RTX 3050,FreeDos,8,Intel Core i5,15.6,3200,Black,asus,31008,512
+Casper Excalibur G911 1290,3,Nvidia GeForce RTX 3080Ti,FreeDos,32,Intel Core i9,16,4800,Grey,casper,83495,1024
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,17.3,3200,Black,monster,66148,500
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,17.3,3200,Black,monster,57299,500
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i7,15.6,3200,Grey,casper,46000,2048
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Black,monster,39699,500
+Casper Excalibur G911 1390,3,Nvidia GeForce RTX 4090,Windows 11 Pro,64,Intel Core i9,16,4800,Grey,casper,137799,2048
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i7,15.6,3200,Black,casper,35999,2048
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,46399,2048
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4070,Windows 11 Pro,16,Intel Core i7,15.6,3200,Grey,casper,59324,1024
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,64,Intel Core i7,15.6,3200,Black,casper,40599,2048
+Lenovo Legion Pro 7,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,5600,Black,lenovo,154999,1024
+Msi Katana A17 Ai,3,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 7,17.3,5600,Black,msi,65623,1024
+Msi Creator Z17 Hx,3,Nvidia GeForce RTX 4070,Windows 11 Pro,64,Intel Core i9,17,5200,Grey,msi,311999,2048
+Msi Stealth 14 Ai,1.5,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core Ultra 7,14,5600,Dark Blue,msi,96908,1024
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i5,15.6,3200,Grey,casper,42899,512
+Game Garaj Slayer4,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,16,4800,Black,game,61011,2048
+Lenovo Loq 15Irh8,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,4800,Grey,lenovo,37800,512
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,8,Intel Core i5,15.6,3200,Black,monster,40799,500
+Lenovo Loq 15,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,4800,Grey,lenovo,44726,512
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4060,Windows 11 Pro,64,Intel Core i7,15.6,3200,Grey,casper,50933,1024
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,Windows 11 Home,16,Intel Core i7,15.6,3200,Black,casper,37799,512
+Casper Excalibur G870 1245,3,Nvidia GeForce RTX 4050,FreeDos,64,Intel Core i5,15.6,3200,Grey,casper,43899,1024
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,monster,42699,500
+Monster Markut M7 V6,3,Nvidia GeForce RTX 3500,FreeDos,64,Intel Core i9,17,4000,Black,monster,228499,2048
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,FreeDos,16,Intel Core i5,15.6,3200,Black,casper,30699,512
+Casper Excalibur G911 1390,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,4800,Grey,casper,116799,2048
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,4800,Grey,casper,133499,4096
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,15.6,3200,Grey,casper,46608,1024
+Lenovo Ideapad Gaming 3,3,Nvidia GeForce RTX 3060,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,lenovo,54998,512
+Lenovo Yoga Pro 7,1.5,Nvidia GeForce RTX 3050,Windows 11 Home,16,AMD Ryzen 7,14.5,6400,Blue,lenovo,62999,1024
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 3050,FreeDos,8,AMD Ryzen 5,15.6,4800,Black,acer,38499,512
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,17.3,3200,Black,monster,72448,1024
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 3060,Linux,16,Intel Core i5,15.6,3200,Black,acer,50599,512
+Msi Crosshair 16 Hx,3,Nvidia GeForce RTX 4060,Windows 11 Home,32,Intel Core i7,16,5600,Grey,msi,158999,1024
+Game Garaj Slayer2,4,Nvidia GeForce RTX 3060,FreeDos,32,Intel Core i7,17.3,4800,Black,game,44167,1024
+Game Garaj Slayer2,3,Nvidia GeForce RTX 3070Ti,FreeDos,16,Intel Core i7,17.3,4800,Black,game,48315,1024
+Msi Katana Gf76 11Ud,3,Nvidia GeForce RTX 3050 Ti,FreeDos,16,Intel Core i7,17.3,3200,Black,msi,54999,512
+Msi Vector 17 Hx,2,Nvidia GeForce RTX 4070,Windows 11 Home,32,Intel Core i9,17,5600,Black,msi,169000,2048
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,8,Intel Core i5,15.6,3200,Black,monster,39399,500
+Monster Tulpar T5 V23,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,3200,Black,monster,49900,500
+Monster Tulpar T6 V1,3,Nvidia GeForce RTX 4080,FreeDos,32,Intel Core i9,16,5600,Black,monster,114399,1024
+Game Garaj Slayer3,3,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i7,17.3,4800,Black,game,52120,1024
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,20,Intel Core i5,16,3200,Black,asus,42499,1024
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,16,Intel Core i7,17.3,3200,Black,monster,67723,1024
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,Windows 11 Pro,32,Intel Core i9,16,4800,Grey,casper,143399,1024
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,Windows 11 Pro,16,Intel Core i7,15.6,3200,Black,casper,39165,1024
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,64,Intel Core i7,17.3,3200,Black,monster,72448,1024
+Acer Nitro V 15,4,Nvidia GeForce RTX 4050,FreeDos,8,Intel Core i5,15.6,5600,Black,acer,35999,1024
+Casper Excalibur G911 1490,3,Nvidia GeForce RTX 4090,FreeDos,64,Intel Core i9,16,4800,Grey,casper,129499,1024
+Hp Victus 16 S1026N,3,Nvidia GeForce RTX 4050,FreeDos,16,AMD Ryzen 7,16.1,5600,Dark Grey,hp,40999,512
+Hp Victus 16 7Z586E,3,Nvidia GeForce RTX 4060,FreeDos,16,AMD Ryzen 7,16.1,5600,Blue,hp,41899,512
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i5,16,3200,Black,asus,47999,2048
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,20,Intel Core i5,16,3200,Black,asus,42899,1024
+Asus Rog Strix Scar 18 ,3,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,18,4800,Black,asus,209999,2048
+Game Garaj Slayer2.1,3,Nvidia GeForce RTX 3070Ti,FreeDos,64,Intel Core i7,17.3,4800,Black,game,53548,1024
+Game Garaj Slayer2.5,3,Nvidia GeForce RTX 3060,FreeDos,16,Intel Core i7,17.3,4800,Black,game,42356,500
+Acer Nitro V 15,3,Nvidia GeForce RTX 4050,FreeDos,32,Intel Core i5,15.6,5600,Black,acer,39999,1024
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 3080,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,acer,65000,1024
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,Windows 11 Home,64,Intel Core i7,17.3,3200,Black,monster,66699,1024
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,16,3200,Black,asus,46499,2048
+Dell Gaming G15 5511,3,Nvidia GeForce RTX 3050,Ubuntu,8,Intel Core i7,15.6,3200,Dark Grey,dell,77957,512
+Acer Nitro 5 An515,3,Nvidia GeForce RTX 3050 Ti,FreeDos,16,AMD Ryzen 7,15.6,3200,Black,acer,98616,512
+Lenovo Ideapad Gaming 3,3,Nvidia GeForce RTX 3060,FreeDos,16,AMD Ryzen 5,15.6,3200,Black,lenovo,54990,512
+Game Garaj Slayer,3,Nvidia GeForce RTX 3050 Ti,FreeDos,8,Intel Core i5,15.6,3200,Black,game,126231,256
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4050,FreeDos,64,Intel Core i7,15.6,3200,Grey,casper,49199,2048
+Game Garaj Slayer3,3,Nvidia GeForce RTX 4070,FreeDos,32,Intel Core i7,17.3,4800,Black,game,64471,1024
+Casper Excalibur G911 1490,4,Nvidia GeForce RTX 4090,FreeDos,64,Intel Core i9,16,4800,Grey,casper,137299,4096
+Casper Excalibur G911 1490,4,Nvidia GeForce RTX 4090,Windows 11 Home,64,Intel Core i9,16,4800,Grey,casper,147799,2048
+Casper Excalibur G911 1390,4,Nvidia GeForce RTX 4090,FreeDos,64,Intel Core i9,16,4800,Grey,casper,125799,4096
+Casper Excalibur G911 1390,4,Nvidia GeForce RTX 4090,Windows 11 Pro,32,Intel Core i9,16,4800,Grey,casper,133699,2048
+Casper Excalibur G870 1270,4,Nvidia GeForce RTX 4070,Windows 11 Pro,32,Intel Core i7,15.6,3200,Grey,casper,63670,2048
+Casper Excalibur G870 1245,4,Nvidia GeForce RTX 4060,FreeDos,64,Intel Core i5,15.6,3200,Grey,casper,47099,1024
+Asus Tuf Gaming Fa506,3,Nvidia GeForce RTX 3050 Ti,FreeDos,8,AMD Ryzen 5,15.6,3200,"Dark Grey, Black",asus,43500,512
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,32,Intel Core i7,15.6,3200,Black,casper,35099,1024
+Casper Excalibur G770 1265,3,Nvidia GeForce RTX 3050,FreeDos,64,Intel Core i7,15.6,3200,Black,casper,38199,1024
+Asus Tuf Gaming Fa617,5,AMD Radeon RX 7600S,FreeDos,16,AMD Ryzen 7,16,4800,Black,asus,40999,512
+Lenovo Ideapad Gaming 3 ,3,Nvidia GeForce RTX 3050,FreeDos,8,Intel Core i5,15.6,3200,Black,lenovo,38818,256
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i7,15.6,3200,Black,monster,45999,1024
+Monster Abra A5 V20,4,Nvidia GeForce RTX 4050,Windows 11 Home,16,Intel Core i5,15.6,3200,Black,monster,42399,1024
+Casper Excalibur G770 1245,3.5,Nvidia GeForce RTX 3050,FreeDos,64,Intel Core i5,15.6,3200,Black,casper,38999,2048
+Casper Excalibur G870 1270,3,Nvidia GeForce RTX 4070,Windows 11 Pro,64,12700H,15.6,3200,Grey,casper,66798,2048
+Casper Excalibur G911 1490,3.5,Nvidia GeForce RTX 4090,Windows 11 Pro,32,Intel Core i9,16,4800,Grey,casper,146099,2048
+Casper Excalibur G770 1245,3,Nvidia GeForce RTX 3050,FreeDos,64,Intel Core i5,15.6,3200,Black,casper,36499,1024
+Casper Excalibur G911 1390,2,Nvidia GeForce RTX 4090,FreeDos,32,Intel Core i9,16,4800,Grey,casper,114399,1024
+Msi Raider Ge78 ,3,Nvidia GeForce RTX 4080,Windows 11 Pro,64,Intel Core i9,17,5200,Black,msi,269566,2048
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i7,17.3,3200,Black,monster,55799,1024
+Msi Thin Gf63 12Vf,1.5,Nvidia GeForce RTX 4060,FreeDos,16,Intel Core i5,15.6,3200,Black,msi,49500,512
+Monster Tulpar T7 V20,3,Nvidia GeForce RTX 4060,FreeDos,32,Intel Core i7,17.3,3200,Black,monster,69298,1024
+Monster Abra A5 V20,4,Nvidia GeForce RTX 4050,FreeDos,16,Intel Core i5,15.6,3200,Black,monster,39399,1024
+Acer Nitro V15,3,Nvidia GeForce RTX 4060,FreeDos,32,AMD Ryzen 7,15.6,4800,Black,acer,43199,512
+Monster Abra A5 V20,3,Nvidia GeForce RTX 4050,Windows 11 Home,8,Intel Core i7,15.6,3200,Black,monster,46699,500
+Asus Vivobook 16X,1.5,Nvidia GeForce RTX 4050,Windows 11 Home,32,Intel Core i5,16,3200,Black,asus,48499,2048

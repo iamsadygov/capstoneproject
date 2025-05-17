@@ -1,0 +1,27 @@
+value_Beige
+value_Black
+value_Black, Grey
+value_Blue
+value_Champagne
+value_Dark Blue
+value_Dark Gray, Black
+value_Dark Grey
+value_Dark Grey, Black
+value_Gold, Black
+value_Gold, Metallic Black
+value_Graphite
+value_Green
+value_Grey
+value_Grey, Black
+value_Grey, Silver
+value_Matte Black
+value_Metallic Black
+value_Metallic Grey
+value_Navy Blue
+value_Orange
+value_Purple
+value_Red
+value_Rose Gold
+value_Silver
+value_Titanium Grey
+value_White

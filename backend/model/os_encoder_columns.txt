@@ -1,0 +1,24 @@
+Value_Android
+Value_Arch Linux
+Value_CentOS
+Value_Chrome OS
+Value_Debian
+Value_Deepin
+Value_Elementary OS
+Value_EndeavourOS
+Value_Fedora
+Value_FreeDos
+Value_Kali Linux
+Value_Linux
+Value_Linux Mint
+Value_Manjaro
+Value_Pop!_OS
+Value_ReactOS
+Value_Ubuntu
+Value_Windows 10 Home
+Value_Windows 10 Pro
+Value_Windows 11 Home
+Value_Windows 11 Pro
+Value_Windows 8.1
+Value_Zorin OS
+Value_macOS

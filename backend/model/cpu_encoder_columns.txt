@@ -1,0 +1,31 @@
+Value_1135G7
+Value_11400H
+Value_1235U
+Value_12450H
+Value_12500H
+Value_1255U
+Value_12700H
+Value_1280P
+Value_13420H
+Value_13620H
+Value_4600H
+Value_7730U
+Value_AMD Ryzen 3
+Value_AMD Ryzen 5
+Value_AMD Ryzen 7
+Value_AMD Ryzen 9
+Value_Apple M1
+Value_Apple M2
+Value_Core Ultra 7
+Value_INTEL N100
+Value_Intel Based
+Value_Intel Celeron
+Value_Intel Core Ultra 5
+Value_Intel Core Ultra 7
+Value_Intel Core Ultra 9
+Value_Intel Core i3
+Value_Intel Core i5
+Value_Intel Core i7
+Value_Intel Core i9
+Value_Intel Pentium
+Value_Ryzen 5

@@ -1,8 +1,0 @@
-Weight_1.0
-Weight_1.5
-Weight_2.0
-Weight_2.5
-Weight_3.0
-Weight_3.5
-Weight_4.0
-Weight_5.0

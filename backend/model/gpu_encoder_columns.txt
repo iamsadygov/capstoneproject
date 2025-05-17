@@ -1,0 +1,47 @@
+Value_AMD RX550 2 GB
+Value_AMD Radeon 610
+Value_AMD Radeon 610M
+Value_AMD Radeon 780M
+Value_AMD Radeon Graphics
+Value_AMD Radeon R5
+Value_AMD Radeon RX 7600S
+Value_AMD Radeon RX6550M
+Value_AMD Radeon Vega 7
+Value_Apple M1 GPU
+Value_Apple M2 GPU
+Value_Intel Arc Graphics
+Value_Intel Graphics
+Value_Intel HD Graphics
+Value_Intel HD Graphics 600
+Value_Intel Iris Graphics
+Value_Intel Iris Pro Graphics
+Value_Intel Iris Xe Graphics
+Value_Intel UHD Graphics
+Value_Intel UHD Graphics 600
+Value_Intel UHD Graphics 610
+Value_NVIDIA RTX A1000
+Value_NVIDIA RTX A2000
+Value_Nvidia GeForce GTX1650
+Value_Nvidia GeForce MX350
+Value_Nvidia GeForce MX550
+Value_Nvidia GeForce RTX 2050
+Value_Nvidia GeForce RTX 3050
+Value_Nvidia GeForce RTX 3050 Ti
+Value_Nvidia GeForce RTX 3060
+Value_Nvidia GeForce RTX 3070Ti
+Value_Nvidia GeForce RTX 3080
+Value_Nvidia GeForce RTX 3080Ti
+Value_Nvidia GeForce RTX 3500
+Value_Nvidia GeForce RTX 4050
+Value_Nvidia GeForce RTX 4060
+Value_Nvidia GeForce RTX 4070
+Value_Nvidia GeForce RTX 4080
+Value_Nvidia GeForce RTX 4090
+Value_Nvidia GeForce RTX 5000
+Value_Nvidia GeForce RTX 5070Ti
+Value_Nvidia GeForce RTX 5080
+Value_Nvidia GeForce RTX 5090
+Value_Nvidia RTX 5000 ADA
+Value_Onboard
+Value_Quadro RTX 5000
+Value_Shared

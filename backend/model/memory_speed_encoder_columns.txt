@@ -1,0 +1,17 @@
+Value_1066
+Value_1740
+Value_2400
+Value_2666
+Value_2800
+Value_3200
+Value_3733
+Value_4000
+Value_4266
+Value_4800
+Value_5200
+Value_5500
+Value_5600
+Value_5800
+Value_6400
+Value_6600
+Value_7467
