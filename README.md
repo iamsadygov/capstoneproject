@@ -52,7 +52,7 @@ source venv/bin/activate (Linux/macOS)
 .\venv\Scripts\activate (Windows)
 
 Install dependencies:
-pip install flask flask-cors pandas numpy scikit-learn
+pip install flask flask-cors pandas numpy scikit-learn matplotlib joblib
 
 Run the backend server:
 cd backend
